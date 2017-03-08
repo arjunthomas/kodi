@@ -1,1 +1,0 @@
-<NAME>ASIANET HD</NAME><URL>http://mcdn-play-290.5centscdn.net/amsqasianet/asianetlive.stream/tracks-v1a1/index.m3u8</URL><ICON>https://upload.wikimedia.org/wikipedia/en/3/3a/Asianet_TV.png</ICON><FANART>http://img.youtube.com/vi/zFmvr2cfTvQ/maxresdefault.jpg</FANART><DESC>nammude asianet</DESC>
