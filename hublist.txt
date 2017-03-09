@@ -1,4 +1,3 @@
-NAME= [COLOR green]<<<Arjun Thomas>>>[/COLOR] url= "" logo= ""
 name= BROUGHT TO YOU BY ARJUN THOMAS url= "" logo= ""
 name= ASIANET url= "http://mcdn-play-290.5centscdn.net/amsqasianet/asianetlive.stream/tracks-v1a1/index.m3u8" logo= ""
 name= ASIANET MOVIES url= "http://mcdn-play-290.5centscdn.net/amsqasianetmovies/fba00c54e72e8233356953a3f957a23d.stream/tracks-v1a1/index.m3u8" logo= ""
