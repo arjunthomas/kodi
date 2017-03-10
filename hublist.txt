@@ -1,4 +1,4 @@
-name= BROUGHT TO YOU BY ARJUN THOMAS url= "https://www.youtube.com/watch?v=9W7bUBI9Rxw" logo= "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAe_AAAAJGM2NTAyNTEwLWQ1YTgtNDQzYi04ODg1LTVjNTc0M2ExMjBhZQ.jpg"
+name= BROUGHT TO YOU BY ARJUN THOMAS url= "https://www.youtube.com/watch?v=9W7bUBI9Rxw" logo= "https://github.com/arjunthomas/kodi/raw/master/icon%20bm.png"
 name= ASIANET url= "http://mcdn-play-290.5centscdn.net/amsqasianet/asianetlive.stream/tracks-v1a1/index.m3u8" logo= "https://github.com/arjunthomas/kodi/raw/logos/asianet.png"
 name= ASIANET MOVIES url= "http://mcdn-play-290.5centscdn.net/amsqasianetmovies/fba00c54e72e8233356953a3f957a23d.stream/tracks-v1a1/index.m3u8" logo= "https://github.com/arjunthomas/kodi/raw/logos/asianet%20movies.jpg"
 name= ASIANET PLUS url= "http://play-290.5centscdn.net/amsqasianetplus/pluslive.stream/tracks-v1a1/index.m3u8" logo= "https://github.com/arjunthomas/kodi/raw/logos/asianet%20plus.png"
