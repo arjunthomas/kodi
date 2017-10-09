@@ -18,8 +18,8 @@ http://asianetcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live1/chunks
 #EXTINF:0 tvg-name="Surya" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/surya.png", SURYA TV
 http://69.30.221.182/Suryaa/index.m3u8
 
-#EXTINF:0 tvg-name="Surya Movies" tvg-logo="http://tvimages.burrp.com/images/channels2/movies/Surya%20M.png", SURYA MOVIES-NOT WORKING
-http://69.30.221.182/suryamoVIES/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-name="Surya Movies" tvg-logo="http://tvimages.burrp.com/images/channels2/movies/Surya%20M.png", SURYA MOVIES
+http://69.30.221.182/suryaamovies/tracks-v1a1/index.m3u8
 
 #EXTINF:0 tvg-name="Mazhavil Manorama" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/mazhavil%20manorama.jpg", MAZHAVIL MANORAMA
 http://69.30.221.182/mazhavilTV1/tracks-v1a1/index.m3u8
