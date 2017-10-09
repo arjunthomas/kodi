@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,[COLOR red]<<<Arjun Thomas>>>[/COLOR]
+http://0.0.6.0:1234
+#EXTM3U
+ 
+#EXTINF:0 tvg-name="Asianet" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/asianet.png", ASIANET
+http://69.30.221.182/AsiaaNEThd1/tracks-v1a1/index.m3u8
+
+#EXTINF:0 tvg-name="Asianet Movies" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/asianet.png", ASIANET MOVIES
+http://69.30.221.182/Asianeet1mOviEs1/tracks-v1a1/index.m3u8
+
+#EXTINF:0 tvg-name="Asianet Plus" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/asianet%20plus.png", ASIANET PLUS
+http://69.30.221.182/aSIANEeT1plus/tracks-v1a1/index.m3u8
+
+#EXTINF:0 tvg-name="Asianet News" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/asianet%20news.png", ASIANET NEWS
+http://asianetcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live1/chunks.m3u8
+
+#EXTINF:0 tvg-name="Surya" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/surya.png", SURYA TV
+http://69.30.221.182/SurYATV/tracks-v1a1/index.m3u8
+
+#EXTINF:0 tvg-name="Surya Movies" tvg-logo="http://tvimages.burrp.com/images/channels2/movies/Surya%20M.png", SURYA TV
+http://69.30.221.182/suryamoVIES/tracks-v1a1/index.m3u8
+
+#EXTINF:0 tvg-name="Mazhavil Manorama" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/mazhavil%20manorama.jpg", MAZHAVIL MANORAMA
+http://69.30.221.182/mazhavilTV1/tracks-v1a1/index.m3u8
