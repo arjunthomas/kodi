@@ -22,7 +22,7 @@ http://69.30.221.182/Suryaaa/index.m3u8
 http://69.30.221.182/suryaamoviess/tracks-v1a1/index.m3u8
 
 #EXTINF:0 tvg-name="Mazhavil Manorama" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/mazhavil%20manorama.jpg", MAZHAVIL MANORAMA
-http://69.30.221.182/MAZHAVILmanorama/index.m3u8
+http://69.30.221.182/MAZHAVILmanorama/tracks-v1a1/index.m3u8
 
 #EXTINF:0 tvg-name="Only Music" tvg-logo="http://www.lecsen.com/site2012/wp-content/uploads/2012/10/OM_logo_blanc1.png", ONLY MUSIC
 http://live-fs.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/index.m3u8
