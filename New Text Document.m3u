@@ -10,7 +10,7 @@ http://69.30.221.182/AsiaaNEThd1/tracks-v1a1/index.m3u8
 http://69.30.221.182/Asianeet1mOviEs1/tracks-v1a1/index.m3u8
 
 #EXTINF:0 tvg-name="Asianet Plus" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/asianet%20plus.png", ASIANET PLUS
-http://69.30.221.182/aSIANEeT1plus/tracks-v1a1/index.m3u8
+http://69.30.221.182/asianetPLus/index.m3u8
 
 #EXTINF:0 tvg-name="Asianet News" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/asianet%20news.png", ASIANET NEWS
 http://asianetcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live1/chunks.m3u8
