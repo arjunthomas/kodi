@@ -1,28 +1,27 @@
 #EXTM3U
 #EXTINF:-1,tvg-name="BLOODY MALLU" tvg-logo="https://github.com/arjunthomas/kodi/raw/master/icon%20bm.png", BLOODY MALLU:NOTICE:ONLY ASIANET NEWS AND THE MUSIC CHANNELS ARE WORKING RIGHT NOW. NOT MY MISTAKE BUT THE PROVIDER'S. WILL FIX ASAP.
 https://www.youtube.com/watch?v=q3I9vmKzj_s
-#EXTM3U
  
 #EXTINF:0 tvg-name="Asianet" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/asianet.png", ASIANET
-http://69.30.221.182/AsiaaNEThd1/tracks-v1a1/index.m3u8
+http://69.30.221.182/ASIAneTvHD/tracks-v1a1/index.m3u8
 
 #EXTINF:0 tvg-name="Asianet Movies" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/asianet.png", ASIANET MOVIES
-http://69.30.221.182/Asianeet1mOviEs1/tracks-v1a1/index.m3u8
+http://69.30.221.182/asianetmovie/tracks-v1a1/index.m3u8
 
 #EXTINF:0 tvg-name="Asianet Plus" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/asianet%20plus.png", ASIANET PLUS
-http://69.30.221.182/asianetPLus/index.m3u8
+http://69.30.221.182/asianetpluS/tracks-v1a1/index.m3u8
 
 #EXTINF:0 tvg-name="Asianet News" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/asianet%20news.png", ASIANET NEWS
 http://asianetcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live1/chunks.m3u8
 
 #EXTINF:0 tvg-name="Surya" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/surya.png", SURYA TV
-http://69.30.221.182/Suryaaa/index.m3u8
+http://69.30.221.182/Suryalive/tracks-v1a1/index.m3u8
 
 #EXTINF:0 tvg-name="Surya Movies" tvg-logo="http://tvimages.burrp.com/images/channels2/movies/Surya%20M.png", SURYA MOVIES
-http://69.30.221.182/suryaamoviess/tracks-v1a1/index.m3u8
+http://69.30.221.182/suryamovieslive/tracks-v1a1/index.m3u8
 
 #EXTINF:0 tvg-name="Mazhavil Manorama" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/mazhavil%20manorama.jpg", MAZHAVIL MANORAMA
-http://69.30.221.182/MAZHAVILmanorama/tracks-v1a1/index.m3u8
+http://69.30.221.182/MAZHAVILMANOTV/tracks-v1a1/index.m3u8
 
 #EXTINF:0 tvg-name="Only Music" tvg-logo="http://www.lecsen.com/site2012/wp-content/uploads/2012/10/OM_logo_blanc1.png", ONLY MUSIC
 http://live-fs.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/index.m3u8
