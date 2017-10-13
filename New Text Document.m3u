@@ -3,13 +3,13 @@
 https://www.youtube.com/watch?v=q3I9vmKzj_s
  
 #EXTINF:0 tvg-name="Asianet" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/asianet.png", ASIANET
-http://69.30.221.182/ASIAneTvHD/tracks-v1a1/index.m3u8
+http://69.30.221.182/ASIANEtTV/tracks-v1a1/index.m3u8
 
 #EXTINF:0 tvg-name="Asianet Movies" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/asianet.png", ASIANET MOVIES
-http://69.30.221.182/asianetmovie/tracks-v1a1/index.m3u8
+http://69.30.221.182/ASIANETMOVEES/tracks-v1a1/index.m3u8
 
 #EXTINF:0 tvg-name="Asianet Plus" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/asianet%20plus.png", ASIANET PLUS
-http://69.30.221.182/asianetpluS/tracks-v1a1/index.m3u8
+http://69.30.221.182/ASIANETPLSS/tracks-v1a1/index.m3u8
 
 #EXTINF:0 tvg-name="Asianet News" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/asianet%20news.png", ASIANET NEWS
 http://asianetcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live1/chunks.m3u8
@@ -18,13 +18,16 @@ http://asianetcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live1/chunks
 http://69.30.221.182/Suryalive/tracks-v1a1/index.m3u8
 
 #EXTINF:0 tvg-name="Surya Movies" tvg-logo="http://tvimages.burrp.com/images/channels2/movies/Surya%20M.png", SURYA MOVIES
-http://69.30.221.182/suryamovieslive/tracks-v1a1/index.m3u8
+http://69.30.221.182/Suryalivee/tracks-v1a1/index.m3u8
 
 #EXTINF:0 tvg-name="Mazhavil Manorama" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/mazhavil%20manorama.jpg", MAZHAVIL MANORAMA
-http://69.30.221.182/MAZHAVILMANOTV/tracks-v1a1/index.m3u8
+http://69.30.221.182/MAZHAVILTVv/tracks-v1a1/index.m3u8
 
 #EXTINF:0 tvg-name="Only Music" tvg-logo="http://www.lecsen.com/site2012/wp-content/uploads/2012/10/OM_logo_blanc1.png", ONLY MUSIC
 http://live-fs.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/index.m3u8
 
 #EXTINF:0 tvg-name="B4U" tvg-logo="http://www.afaqs.com/all/news/images/news_story_grfx/2014/09/42055/B4U-Music.jpg", B4U
 http://69.30.221.182/b4uMusiC/tracks-v1a1/index.m3u8
+
+#EXTINF:0 tvg-name="MBO" tvg-logo="https://d3npzzrehyahmo.cloudfront.net/images/c1/2d/c12d7180e4163cb442405a3c9f8e076b_12745da265c_t.jpg", MBO
+http://162.248.77.11/live/mboustime.m3u8?token=P7Z4OY81N59xAWeCoKR7mA&expires=1507924269
