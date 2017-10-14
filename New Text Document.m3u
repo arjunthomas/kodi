@@ -31,3 +31,6 @@ http://69.30.221.182/b4uMusiC/tracks-v1a1/index.m3u8
 
 #EXTINF:0 tvg-name="MBO" tvg-logo="https://d3npzzrehyahmo.cloudfront.net/images/c1/2d/c12d7180e4163cb442405a3c9f8e076b_12745da265c_t.jpg", MBO
 http://162.248.77.11/live/mboustime.m3u8?token=CM1A37-n1lHp7_v39OX9CA&expires=1508010264
+
+#EXTINF:0 tvg-name="surya music" tvg-logo="https://d3npzzrehyahmo.cloudfront.net/images/c1/2d/c12d7180e4163cb442405a3c9f8e076b_12745da265c_t.jpg", Surya Music
+http://69.30.221.182/suryamUSIC/tracks-v1a1/index.m3u8
