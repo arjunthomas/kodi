@@ -17,6 +17,9 @@ http://asianetcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live3/chunks
 #EXTINF:0 tvg-name="Surya" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/surya.png", SURYA TV
 http://ssrigcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Surya_TV/Surya_TV_800.m3u8?jct=RvaHGa0ymHKl3YYGT7odqQ&pxe=1509980891&st=AQIC5wM2LY4SfczRaEwgGl4Dyvly_3HihdlD_Oduojk5Kxs.*AAJTSQACMDIAAlNLABQtNjUxNDEwODczODgxNzkyMzg5OQACUzEAAjYw*
 
+#EXTINF:0 tvg-name="Kairali" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/267px-Kairali_TV.svg.png", Kairali TV
+mcdn-play-290.5centscdn.net/amsqwe/kairaliwelive.stream/tracks-v1a1/index.m3u8?st=dCRKxRZQUrvHj0c0ROcQuw&e=1509993648
+
 #EXTINF:0 tvg-name="Surya Movies" tvg-logo="http://tvimages.burrp.com/images/channels2/movies/Surya%20M.png", SURYA MOVIES
 http://ssrigcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Kiran_TV/Kiran_TV_800.m3u8?jct=RvaHGa0ymHKl3YYGT7odqQ&pxe=1509980891&st=AQIC5wM2LY4SfczRaEwgGl4Dyvly_3HihdlD_Oduojk5Kxs.*AAJTSQACMDIAAlNLABQtNjUxNDEwODczODgxNzkyMzg5OQACUzEAAjYw*
 
