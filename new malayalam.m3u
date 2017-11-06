@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:0, tvg-id="" tvg-logo="https://github.com/arjunthomas/kodi/raw/master/icon%20bm.png" tvg-name="Thondimuthalum Driksakshikalum"  group-title="Movies",Thondimuthalum Driksakshikalum
+https://1fiagei.oloadcdn.net/dl/l/atpVfgD9rbus1gNb/GDT8NKo4aOw/Thondimuthalum_Dhriksakshiyum.mkv.mp4?mime=true
+#EXTINF:0, tvg-id="" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/asianet.png" tvg-name="ASIANET"  group-title="Entertainment",ASIANET
+http://mcdn-play-290.5centscdn.net/amsqasianet/asianetlive.stream/tracks-v1a1/index.m3u8?st=jdd696xE_CvzfXJNUSvCRg&e=1509991493
+#EXTINF:0, tvg-id="" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/asianet.png" tvg-name="ASIANET MOVIES"  group-title="Entertainment",ASIANET MOVIES
+http://mcdn-play-290.5centscdn.net/amsqasianetmovies/fba00c54e72e8233356953a3f957a23d.stream/tracks-v1a1/index.m3u8?st=XpFjqRc9PEjSbpk-xWy_Zg&e=1509991592
+#EXTINF:0, tvg-id="" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/asianet%20plus.png" tvg-name="ASIANET PLUS"  group-title="Entertainment",ASIANET PLUS
+http://mcdn-play-290.5centscdn.net/amsqasianetplus/pluslive.stream/tracks-v1a1/index.m3u8?st=xzHbpLMe3r8A70A8N0Hjfw&e=1509991621
+#EXTINF:0, tvg-id="" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/surya.png" tvg-name="SURYA TV"  group-title="Entertainment",SURYA TV
+http://ssrigcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Surya_TV/Surya_TV_800.m3u8?jct=RvaHGa0ymHKl3YYGT7odqQ&pxe=1509980891&st=AQIC5wM2LY4SfczRaEwgGl4Dyvly_3HihdlD_Oduojk5Kxs.*AAJTSQACMDIAAlNLABQtNjUxNDEwODczODgxNzkyMzg5OQACUzEAAjYw*
+#EXTINF:0, tvg-id="" tvg-logo="http://tvimages.burrp.com/images/channels2/movies/Surya%20M.png" tvg-name="SURYA MOVIES"  group-title="Entertainment",SURYA MOVIES
+http://ssrigcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Kiran_TV/Kiran_TV_800.m3u8?jct=RvaHGa0ymHKl3YYGT7odqQ&pxe=1509980891&st=AQIC5wM2LY4SfczRaEwgGl4Dyvly_3HihdlD_Oduojk5Kxs.*AAJTSQACMDIAAlNLABQtNjUxNDEwODczODgxNzkyMzg5OQACUzEAAjYw*
+#EXTINF:0, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/267px-Kairali_TV.svg.png" tvg-name="Kairali TV"  group-title="Entertainment",Kairali TV
+Group N/A
+#EXTINF:0, tvg-id="" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/mazhavil%20manorama.jpg" tvg-name="MAZHAVIL MANORAMA"  group-title="Entertainment",MAZHAVIL MANORAMA
+http://mcdn-play-290.5centscdn.net/amsqmazhavil/mazhavillive.stream/tracks-v1a1/index.m3u8?st=fBrbyFpelIQ4DcsR0NedCg&e=1509992010
+#EXTINF:0, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Amrita_TV.svg/867px-Amrita_TV.svg.png" tvg-name="Amrita TV"  group-title="Entertainment",Amrita TV
+http://mcdn-play-290.5centscdn.net/amsqamritatv/amritalive.stream/tracks-v1a1/index.m3u8?st=Ljh-qGLLZyZ_wtvxRU6Mfg&e=1509992514
+#EXTINF:0, tvg-id="" tvg-logo="https://d3npzzrehyahmo.cloudfront.net/images/c1/2d/c12d7180e4163cb442405a3c9f8e076b_12745da265c_t.jpg" tvg-name="MBO"  group-title="Entertainment",MBO
+http://162.248.77.11/live/mboustime.m3u8?token=L4CvJahXiJuw5UPf1W1wVw&expires=1509982872
+#EXTINF:0, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Safari_logo_new_25-07-2015.png/1200px-Safari_logo_new_25-07-2015.png" tvg-name="Safari TV"  group-title="Entertainment",Safari TV
+http://4j2ldmv5dobv-hls-live.wmncdn.net/safaritv2/live2.stream/tracks-v1a1/index.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/asianet%20news.png" tvg-name="ASIANET NEWS"  group-title="News",ASIANET NEWS
+http://asianetcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live3/chunks.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="http://www.lecsen.com/site2012/wp-content/uploads/2012/10/OM_logo_blanc1.png" tvg-name="ONLY MUSIC"  group-title="Music",ONLY MUSIC
+http://lbor3kkkqvaj-hls-live.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/tracks-v1a1/index.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://yt3.ggpht.com/-2WJuzxai78o/AAAAAAAAAAI/AAAAAAAAAAA/YSyxD01AIB8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-name="Kappa TV"  group-title="Music",Kappa TV
+http://69.30.221.182/suryamUSIC/tracks-v1a1/index.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="http://www.sunnetwork.in/News_images/large/suryamusiclarge.jpg" tvg-name="Surya Music"  group-title="Music",Surya Music
+http://69.30.221.182/suryamUSIC/tracks-v1a1/index.m3u8
