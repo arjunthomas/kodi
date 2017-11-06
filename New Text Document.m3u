@@ -3,34 +3,40 @@
 https://www.youtube.com/watch?v=q3I9vmKzj_s
  
 #EXTINF:0 tvg-name="Asianet" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/asianet.png", ASIANET
-http://mcdn-play-290.5centscdn.net/amsqasianet/asianetlive.stream/tracks-v1a1/index.m3u8?st=zP1L3Wv5nhxXCoSNq5oN7Q&e=1508960373
+http://mcdn-play-290.5centscdn.net/amsqasianet/asianetlive.stream/tracks-v1a1/index.m3u8?st=jdd696xE_CvzfXJNUSvCRg&e=1509991493
 
 #EXTINF:0 tvg-name="Asianet Movies" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/asianet.png", ASIANET MOVIES
-http://69.30.221.182/asianeETMovies/tracks-v1a1/index.m3u8
+http://mcdn-play-290.5centscdn.net/amsqasianetmovies/fba00c54e72e8233356953a3f957a23d.stream/tracks-v1a1/index.m3u8?st=XpFjqRc9PEjSbpk-xWy_Zg&e=1509991592
 
 #EXTINF:0 tvg-name="Asianet Plus" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/asianet%20plus.png", ASIANET PLUS
-http://69.30.221.182/asianETPlus/tracks-v1a1/index.m3u8
+http://mcdn-play-290.5centscdn.net/amsqasianetplus/pluslive.stream/tracks-v1a1/index.m3u8?st=xzHbpLMe3r8A70A8N0Hjfw&e=1509991621
 
 #EXTINF:0 tvg-name="Asianet News" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/asianet%20news.png", ASIANET NEWS
-http://asianetcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live1/chunks.m3u8
+http://asianetcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live3/chunks.m3u8
 
 #EXTINF:0 tvg-name="Surya" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/surya.png", SURYA TV
-http://69.30.221.182/suRYAtv/tracks-v1a1/index.m3u8
+http://ssrigcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Surya_TV/Surya_TV_800.m3u8?jct=RvaHGa0ymHKl3YYGT7odqQ&pxe=1509980891&st=AQIC5wM2LY4SfczRaEwgGl4Dyvly_3HihdlD_Oduojk5Kxs.*AAJTSQACMDIAAlNLABQtNjUxNDEwODczODgxNzkyMzg5OQACUzEAAjYw*
 
 #EXTINF:0 tvg-name="Surya Movies" tvg-logo="http://tvimages.burrp.com/images/channels2/movies/Surya%20M.png", SURYA MOVIES
-http://69.30.221.182/SUryaMOvies/tracks-v1a1/index.m3u8
+http://ssrigcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Kiran_TV/Kiran_TV_800.m3u8?jct=RvaHGa0ymHKl3YYGT7odqQ&pxe=1509980891&st=AQIC5wM2LY4SfczRaEwgGl4Dyvly_3HihdlD_Oduojk5Kxs.*AAJTSQACMDIAAlNLABQtNjUxNDEwODczODgxNzkyMzg5OQACUzEAAjYw*
 
 #EXTINF:0 tvg-name="Mazhavil Manorama" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/mazhavil%20manorama.jpg", MAZHAVIL MANORAMA
-http://69.30.221.182/mazhavilmNORAMA/tracks-v1a1/index.m3u8
+http://mcdn-play-290.5centscdn.net/amsqmazhavil/mazhavillive.stream/tracks-v1a1/index.m3u8?st=fBrbyFpelIQ4DcsR0NedCg&e=1509992010
 
 #EXTINF:0 tvg-name="Only Music" tvg-logo="http://www.lecsen.com/site2012/wp-content/uploads/2012/10/OM_logo_blanc1.png", ONLY MUSIC
-http://live-fs.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/index.m3u8
-
-#EXTINF:0 tvg-name="B4U" tvg-logo="http://www.afaqs.com/all/news/images/news_story_grfx/2014/09/42055/B4U-Music.jpg", B4U
-http://69.30.221.182/b4uMusiC/tracks-v1a1/index.m3u8
+http://lbor3kkkqvaj-hls-live.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/tracks-v1a1/index.m3u8
 
 #EXTINF:0 tvg-name="MBO" tvg-logo="https://d3npzzrehyahmo.cloudfront.net/images/c1/2d/c12d7180e4163cb442405a3c9f8e076b_12745da265c_t.jpg", MBO
-http://162.248.77.11/live/mboustime.m3u8?token=zcaY0jGg3tC2eGF1MG-BsA&expires=1508018135
+http://162.248.77.11/live/mboustime.m3u8?token=L4CvJahXiJuw5UPf1W1wVw&expires=1509982872
 
 #EXTINF:0 tvg-name="surya music" tvg-logo="http://www.sunnetwork.in/News_images/large/suryamusiclarge.jpg", Surya Music
 http://69.30.221.182/suryamUSIC/tracks-v1a1/index.m3u8
+
+#EXTINF:0 tvg-name="Kappa TV" tvg-logo="https://yt3.ggpht.com/-2WJuzxai78o/AAAAAAAAAAI/AAAAAAAAAAA/YSyxD01AIB8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", Kappa TV
+http://69.30.221.182/suryamUSIC/tracks-v1a1/index.m3u8
+
+#EXTINF:0 tvg-name="Safari" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Safari_logo_new_25-07-2015.png/1200px-Safari_logo_new_25-07-2015.png", Safari TV
+http://4j2ldmv5dobv-hls-live.wmncdn.net/safaritv2/live2.stream/tracks-v1a1/index.m3u8
+
+#EXTINF:0 tvg-name="Amrita" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Amrita_TV.svg/867px-Amrita_TV.svg.png", Amrita TV
+http://mcdn-play-290.5centscdn.net/amsqamritatv/amritalive.stream/tracks-v1a1/index.m3u8?st=Ljh-qGLLZyZ_wtvxRU6Mfg&e=1509992514
