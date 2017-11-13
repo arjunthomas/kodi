@@ -1,16 +1,16 @@
-﻿#EXTM3U
+#EXTM3U
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://github.com/arjunthomas/kodi/raw/master/icon%20bm.png" tvg-name="BLOODY MALLU"  group-title="Latest Movie",BLOODY MALLU
 https://www.youtube.com/watch?v=NBO_nAiNWjw
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/asianet.png" tvg-name="ASIANET"  group-title="Entertainment",ASIANET
-http://mcdn-play-290.5centscdn.net/amsqasianet/asianetlive.stream/tracks-v1a1/index.m3u8?st=U4tpzorBsSC5-z4NGcmd1A&e=1510592306
+http://mcdn-play-290.5centscdn.net/amsqasianet/asianetlive.stream/tracks-v1a1/index.m3u8?st=Ig-dbwLeV10ipNnNxD9r3Q&e=1510607309
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/asianet.png" tvg-name="ASIANET MOVIES"  group-title="Entertainment",ASIANET MOVIES
-http://mcdn-play-290.5centscdn.net/amsqasianetmovies/fba00c54e72e8233356953a3f957a23d.stream/tracks-v1a1/index.m3u8?st=UjMPIvbD-SuIjtcEoHARHA&e=1510592355
+http://mcdn-play-290.5centscdn.net/amsqasianetmovies/fba00c54e72e8233356953a3f957a23d.stream/tracks-v1a1/index.m3u8?st=DrnwAJeBE7NU_gAgO0n9SA&e=1510607336
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/asianet%20plus.png" tvg-name="ASIANET PLUS"  group-title="Entertainment",ASIANET PLUS
-http://mcdn-play-290.5centscdn.net/amsqasianetplus/pluslive.stream/tracks-v1a1/index.m3u8?st=3J-fal_FXs080VUHe3vhxQ&e=1510592381
+http://mcdn-play-290.5centscdn.net/amsqasianetplus/pluslive.stream/tracks-v1a1/index.m3u8?st=A8kPgJI1ChxvXQ8TPOf-lA&e=1510607353
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/asianet%20news.png" tvg-name="ASIANET NEWS"  group-title="News",ASIANET NEWS
 http://asianetcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live3/chunks.m3u8
