@@ -4,16 +4,16 @@
 https://www.youtube.com/watch?v=NBO_nAiNWjw
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/asianet.png" tvg-name="ASIANET"  group-title="Entertainment",ASIANET
-#EXTM3U
+http://mcdn-play-290.5centscdn.net/amsqasianet/asianetlive.stream/tracks-v1a1/index.m3u8?st=Rfqmds2ffhS-Yu13emF8ew&e=1510679490
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/asianet.png" tvg-name="ASIANET MOVIES"  group-title="Entertainment",ASIANET MOVIES
-#EXTM3U
+http://mcdn-play-290.5centscdn.net/amsqasianetmovies/fba00c54e72e8233356953a3f957a23d.stream/tracks-v1a1/index.m3u8?st=oJPMhzVGG4kCV-hDpNV2HA&e=1510679521
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/asianet%20plus.png" tvg-name="ASIANET PLUS"  group-title="Entertainment",ASIANET PLUS
-#EXTM3U
+http://mcdn-play-290.5centscdn.net/amsqasianetplus/pluslive.stream/tracks-v1a1/index.m3u8?st=3KCwnBmFQeXhGLhiA-ksZg&e=1510679532
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/asianet%20news.png" tvg-name="ASIANET NEWS"  group-title="News",ASIANET NEWS
-#EXTM3U
+http://asianetcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live3/chunks.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/surya.png" tvg-name="SURYA TV"  group-title="Entertainment",SURYA TV
 https://ind45-lh.akamaihd.net/i/ind45_surya@571049/index_2000_av-p.m3u8?sd=10&dw=59&b=100-&rebase=on&hdntl=exp=1510501973~acl=%2fi%2find45_surya%40571049%2f*~data=hdntl~hmac=fab14fc3e57326753e46c53002a604e6e59b74e2cd38f27451a48b57af560cf0
@@ -25,19 +25,19 @@ http://ssrigcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Surya_Music/Surya_Mus
 http://nwk3-lh.akamaihd.net/i/us3_kirantv@315935/index_1800_av-p.m3u8?sd=10&dw=59&b=100-&rebase=on&hdntl=exp=1510331313~acl=%2fi%2fus3_kirantv%40315935%2f*~data=hdntl~hmac=865e621416a35ec03d0eb955eabd5d13acad8fab50c84163f8f13130e8309cb9
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/mazhavil%20manorama.jpg" tvg-name="MAZHAVIL MANORAMA"  group-title="Entertainment",MAZHAVIL MANORAMA
-#EXTM3U
+http://mcdn-play-290.5centscdn.net/amsqmazhavil/mazhavillive.stream/tracks-v1a1/index.m3u8?st=GFNZ4hrSDnesg5RG5H_u9A&e=1510679564
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/267px-Kairali_TV.svg.png" tvg-name="Kairali TV"  group-title="Entertainment",Kairali TV
-#EXTM3U
+http://mcdn-play-290.5centscdn.net/amsqkairali/kairalilive.stream/tracks-v1a1/index.m3u8?st=JqARdvy8IFoYpNNYfAikTQ&e=1510679612
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Amrita_TV.svg/867px-Amrita_TV.svg.png" tvg-name="Amrita TV"  group-title="Entertainment",Amrita TV
-#EXTM3U
+http://mcdn-play-290.5centscdn.net/amsqamritatv/amritalive.stream/tracks-v1a1/index.m3u8?st=qPydacQP79FThXNdIbVBMA&e=1510679660
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Safari_logo_new_25-07-2015.png/1200px-Safari_logo_new_25-07-2015.png" tvg-name="Safari TV"  group-title="Entertainment",Safari TV
-#EXTM3U
+http://4j2ldmv5dobv-hls-live.wmncdn.net/safaritv2/live2.stream/tracks-v1a1/index.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/-2WJuzxai78o/AAAAAAAAAAI/AAAAAAAAAAA/YSyxD01AIB8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-name="Kappa TV"  group-title="Entertainment",Kappa TV
-#EXTM3U
+http://play-290.5centscdn.net/amsqkappatv/kappatvlive.stream/tracks-v1a1/index.m3u8?st=khiK8UFO-DdnyElpckba1g&e=1510679693
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lecsen.com/site2012/wp-content/uploads/2012/10/OM_logo_blanc1.png" tvg-name="ONLY MUSIC"  group-title="Entertainment",ONLY MUSIC
 http://lbor3kkkqvaj-hls-live.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/tracks-v1a1/index.m3u8
@@ -46,26 +46,26 @@ http://lbor3kkkqvaj-hls-live.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac
 http://162.248.77.11/live/mboustime.m3u8?token=Yl1P3pQKPKHXcTygcjPk-Q&expires=1510177858
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/arjunthomas/kodi/logos/mazhavil%20manorama.jpg" tvg-name="Manorama News"  group-title="News",Manorama News
-#EXTM3U
+http://mcdn-play-290.5centscdn.net/amsqmanorama/manoramanewslive.stream/tracks-v1a1/index.m3u8?st=ZfxBbbG-jp2TASyIHf7ycw&e=1510679582
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mathrubhumi_news.svg/2000px-Mathrubhumi_news.svg.png" tvg-name="Mathrubhumi News"  group-title="News",Mathrubhumi News
-#EXTM3U
+http://mcdn-play-290.5centscdn.net/amsqmathrubhoomi/mathrubhoomilive.stream/tracks-v1a1/index.m3u8?st=o9yVasj4iYh13TscE3DzFg&e=1510679597
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/arjunthomas/kodi/logos/kairali%20we.jpg" tvg-name="Kairali WE"  group-title="Entertainment",Kairali WE
-#EXTM3U
+http://mcdn-play-290.5centscdn.net/amsqwe/kairaliwelive.stream/tracks-v1a1/index.m3u8?st=EpW5-_2TYm6gR4wfygMaqw&e=1510679629
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/arjunthomas/kodi/logos/flowerstv.jpg" tvg-name="Flowers TV"  group-title="Entertainment",Flowers TV
-#EXTM3U
+http://mcdn-play-290.5centscdn.net/amsqflowers/flowerslive.stream/tracks-v1a1/index.m3u8?st=VXJ-e8UCeE_OAW7gp31Ckw&e=1510679645
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://tvimages.burrp.com/images/channels/Entertainment/DD-news_1.png" tvg-name="DD Malayalam"  group-title="Entertainment",DD Malayalam
-#EXTM3U
+http://w2-adrd-ltv-ddmala-open.llnw.cinesoft.net/cinehome/smil:ddmalayalamcinehome.smil/chunklist_b800000_sleng.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/arjunthomas/kodi/logos/media%20one.jpg" tvg-name="Media One"  group-title="News",Media One
-#EXTM3U
+http://cdn001.tvzone.co.in:1935/tvzone_edge001_mediaone/t8fjl56fa/chunklist_w2067272928.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/arjunthomas/kodi/logos/kaumudy.png" tvg-name="Kaumudy"  group-title="Entertainment",Kaumudy
-#EXTM3U
+http://28noromvdm6g-hls-live.wmncdn.net/kaumuditv1/live.stream/tracks-v1a1/index.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://jeevannewsonline.com/images/jeevanlogo.png" tvg-name="Jeevan"  group-title="Entertainment",Jeevan
-#EXTM3U
+http://62.210.149.2:1935/7644/7644/chunklist_w1562884458.m3u8
 
