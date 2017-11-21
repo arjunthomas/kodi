@@ -32,7 +32,81 @@ http://mcdn-play-290.5centscdn.net/amsqkairali/kairalilive.stream/tracks-v1a1/in
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Amrita_TV.svg/867px-Amrita_TV.svg.png" tvg-name="AMRITA TV"  group-title="Entertainment",AMRITA TV
 http://mcdn-play-290.5centscdn.net/amsqamritatv/amritalive.stream/tracks-v1a1/index.m3u8?st=hLQ4MM-zG9KPzO7AXi8kwg&e=1511218014
+#EXTM3U#EXTM3U
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://images.indianexpress.com/2017/08/mohanlal-759.jpg" tvg-name="Velipaadinte Pusthakam"  group-title="Latest Movie",Velipaadinte Pusthakam
+https://yourplayer.us/e/drive.php?id=312935e26adfbf71&itag=22&source=webdrive&requiressl=yes&mm=30&mn=sn-25ge7ns7&ms=nxu&mv=m&pl=53&ttl=transient&ei=k7ARWq7FFc6X-gXy94PIDA&driveid=Q1J1VjRBM0MreDhuQnkreFRlVWxXYjh2ZGgvYzNZdkk0UFl3bUV3S0ZZWT0=&api=wsgY8y2VPd8&app=explorer&mime=video/mp4&lmt=1365842065655651&mt=1511108673&ip=2001:41d0:2:b623::&ck=wsgY8y2VPd8&dom=aHR0cHM6Ly9yMy0tLXNuLTI1Z2U3bnM3Lmdvb2dsZXZpZGVvLmNvbS8=&ipbits=0&expire=1511112355&cp=QVNGU0JfUVNTRlhOOnRwZFc5ejVTUWE3&sparams=ip,ipbits,expire,id,itag,source,requiressl,mm,mn,ms,mv,pl,ttl,ei,driveid,app,mime,lmt,cp&signature=4197FB256775A8C42D1B9F5476F86320EB4858D2.B6A898DA2881DB31017809B3FF729037F5E027AE&key=ck2&apps=yourplayer.us
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://github.com/arjunthomas/kodi/blob/logos/asianet.png?raw=true" tvg-name="ASIANET"  group-title="Entertainment",ASIANET
 #EXTM3U
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://github.com/arjunthomas/kodi/blob/logos/asianet%20movies.jpg?raw=true" tvg-name="ASIANET MOVIES"  group-title="Entertainment",ASIANET MOVIES
+#EXTM3U
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://github.com/arjunthomas/kodi/blob/logos/asianet%20plus.png?raw=true" tvg-name="ASIANET PLUS"  group-title="Entertainment",ASIANET PLUS
+#EXTM3U
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://github.com/arjunthomas/kodi/blob/logos/asianet%20news.png?raw=true" tvg-name="ASIANET NEWS"  group-title="News",ASIANET NEWS
+#EXTM3U
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/profile_images/433131206/rblogo.jpg" tvg-name="ROSEBOWL"  group-title="Entertainment",ROSEBOWL
+#EXTM3U
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://tvimages.burrp.com/images/channels2/documentary/National-Geographic-Channel-HD.png" tvg-name="NAT GEO HD"  group-title="Entertainment",NAT GEO HD
+#EXTM3U
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.televisionpost.com/wp-content/uploads/2016/09/MTV-Beats.png" tvg-name="MTV BEATS MUSIC"  group-title="Entertainment",MTV BEATS MUSIC
+#EXTM3U
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/mazhavil%20manorama.jpg" tvg-name="MAZHAVIL MANORAMA"  group-title="Entertainment",MAZHAVIL MANORAMA
+#EXTM3U
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/267px-Kairali_TV.svg.png" tvg-name="KAIRALI TV"  group-title="Entertainment",KAIRALI TV
+#EXTM3U
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Amrita_TV.svg/867px-Amrita_TV.svg.png" tvg-name="AMRITA TV"  group-title="Entertainment",AMRITA TV
+#EXTM3U
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Safari_logo_new_25-07-2015.png/1200px-Safari_logo_new_25-07-2015.png" tvg-name="SAFARI TV"  group-title="Entertainment",SAFARI TV
+#EXTM3U
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/-2WJuzxai78o/AAAAAAAAAAI/AAAAAAAAAAA/YSyxD01AIB8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-name="KAPPA TV"  group-title="Entertainment",KAPPA TV
+#EXTM3U
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lecsen.com/site2012/wp-content/uploads/2012/10/OM_logo_blanc1.png" tvg-name="ONLY MUSIC"  group-title="Entertainment",ONLY MUSIC
+http://lbor3kkkqvaj-hls-live.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/tracks-v1a1/index.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://tvimages.burrp.com/images/channels2/movies/Movies%20Now.png" tvg-name="MOVIES NOW"  group-title="Entertainment",MOVIES NOW
+#EXTM3U
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/arjunthomas/kodi/logos/mazhavil%20manorama.jpg" tvg-name="MANORAMA NEWS"  group-title="News",MANORAMA NEWS
+#EXTM3U
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mathrubhumi_news.svg/2000px-Mathrubhumi_news.svg.png" tvg-name="MATHRUBHUMI NEWS"  group-title="News",MATHRUBHUMI NEWS
+#EXTM3U
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/arjunthomas/kodi/logos/kairali%20we.jpg" tvg-name="KAIRALI WE"  group-title="Entertainment",KAIRALI WE
+#EXTM3U
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/arjunthomas/kodi/logos/flowerstv.jpg" tvg-name="FLOWERS TV"  group-title="Entertainment",FLOWERS TV
+#EXTM3U
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://tvimages.burrp.com/images/channels/Entertainment/DD-news_1.png" tvg-name="DD MALAYALAM"  group-title="Entertainment",DD MALAYALAM
+#EXTM3U
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/arjunthomas/kodi/logos/media%20one.jpg" tvg-name="MEDIA ONE"  group-title="News",MEDIA ONE
+#EXTM3U
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/arjunthomas/kodi/logos/kaumudy.png" tvg-name="KAUMUDY"  group-title="Entertainment",KAUMUDY
+#EXTM3U
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://jeevannewsonline.com/images/jeevanlogo.png" tvg-name="JEEVAN TV"  group-title="Entertainment",JEEVAN TV
+#EXTM3U
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="https://extraimage.net/images/2017/11/17/1bf89130c467f29245ba33fdfb19db85.jpg" tvg-name="Mersal Tamil"  group-title="Latest Movie",Mersal Tamil
+https://lh3.googleusercontent.com/-DZ4N5XL3aYvP1Zdy3uvzDwamCDC-id3gjj0Mdg0zn95JasVpxcTP3bd_tsK7_ULxo_BthhS0OVS=m18?cpn=FIOPo7Y5Y4Zsk8dv&c=WEB_EMBEDDED_PLAYER&cver=20171116
+
+
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://images.indianexpress.com/2017/08/mohanlal-759.jpg" tvg-name="Velipaadinte Pusthakam"  group-title="Latest Movie",Velipaadinte Pusthakam
 https://yourplayer.us/e/drive.php?id=312935e26adfbf71&itag=22&source=webdrive&requiressl=yes&mm=30&mn=sn-25ge7ns7&ms=nxu&mv=m&pl=53&ttl=transient&ei=k7ARWq7FFc6X-gXy94PIDA&driveid=Q1J1VjRBM0MreDhuQnkreFRlVWxXYjh2ZGgvYzNZdkk0UFl3bUV3S0ZZWT0=&api=wsgY8y2VPd8&app=explorer&mime=video/mp4&lmt=1365842065655651&mt=1511108673&ip=2001:41d0:2:b623::&ck=wsgY8y2VPd8&dom=aHR0cHM6Ly9yMy0tLXNuLTI1Z2U3bnM3Lmdvb2dsZXZpZGVvLmNvbS8=&ipbits=0&expire=1511112355&cp=QVNGU0JfUVNTRlhOOnRwZFc5ejVTUWE3&sparams=ip,ipbits,expire,id,itag,source,requiressl,mm,mn,ms,mv,pl,ttl,ei,driveid,app,mime,lmt,cp&signature=4197FB256775A8C42D1B9F5476F86320EB4858D2.B6A898DA2881DB31017809B3FF729037F5E027AE&key=ck2&apps=yourplayer.us
