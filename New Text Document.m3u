@@ -4,70 +4,70 @@
 https://lh3.googleusercontent.com/VhCxYROJvCXc81PpXKC4lzEgDdGCzChRJJfqdp8anrEdUrUYkT4o7EGdffXeYTPLkGaRY134q_75mQ=m18?
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://github.com/arjunthomas/kodi/blob/logos/asianet.png?raw=true" tvg-name="ASIANET"  group-title="Entertainment",ASIANET
-http://mcdn-play-290.5centscdn.net/amsqasianet/asianetlive.stream/tracks-v1a1/index.m3u8?st=arp_MSymXfJ5dwLtJQn5VQ&e=1511660377
+http://mcdn-play-290.5centscdn.net/amsqasianet/asianetlive.stream/tracks-v1a1/index.m3u8?st=KqGIr8Xwx9BhLl38hcL5IA&e=1511661631
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://github.com/arjunthomas/kodi/blob/logos/asianet%20movies.jpg?raw=true" tvg-name="ASIANET MOVIES"  group-title="Entertainment",ASIANET MOVIES
-http://play-290.5centscdn.net/amisl/d0dbe915091d400bd8ee7f27f0791303.sdp/tracks-v1a1/index.m3u8?st=4kPbujZbUpRVxbjwEM5KhA&e=1511660426
+http://play-290.5centscdn.net/amisl/d0dbe915091d400bd8ee7f27f0791303.sdp/tracks-v1a1/index.m3u8?st=ioH5PYQdBHOqPthtssgAuw&e=1511661679
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://github.com/arjunthomas/kodi/blob/logos/asianet%20plus.png?raw=true" tvg-name="ASIANET PLUS"  group-title="Entertainment",ASIANET PLUS
-http://mcdn-play-290.5centscdn.net/amsqasianetplus/pluslive.stream/tracks-v1a1/index.m3u8?st=LGm3oLsdSXIRop5q4tNjwQ&e=1511660436
+http://mcdn-play-290.5centscdn.net/amsqasianetplus/pluslive.stream/tracks-v1a1/index.m3u8?st=YsrwucgRt0_f4PJoGXPsSQ&e=1511661690
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://github.com/arjunthomas/kodi/blob/logos/asianet%20news.png?raw=true" tvg-name="ASIANET NEWS"  group-title="News",ASIANET NEWS
 http://asianetcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live3/chunks.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/profile_images/433131206/rblogo.jpg" tvg-name="ROSEBOWL"  group-title="Entertainment",ROSEBOWL
-http://acv.asianetmobiletvplus.online/webstreams/rtuynngnvatgshhzmiouiyiafefmjthx/chunks.m3u8?nimblesessionid=922918
+http://acv.asianetmobiletvplus.online/webstreams/rtuynngnvatgshhzmiouiyiafefmjthx/chunks.m3u8?nimblesessionid=923091
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://tvimages.burrp.com/images/channels2/documentary/National-Geographic-Channel-HD.png" tvg-name="NAT GEO HD"  group-title="Entertainment",NAT GEO HD
-http://edge2.liveonlinetv247.xyz/live/natgeo-hq/chunks.m3u8?nimblesessionid=24558069&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxNyAxMDo0Nzo1MSBQTSZoYXNoX3ZhbHVlPS85MU1wMUxzNGNGMlp5NVlKTFF3ekE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MTcyLjY4LjE1MC44OCZzdHJtX2xlbj0xNA==
+http://edge2.liveonlinetv247.xyz/live/natgeo-hq/chunks.m3u8?nimblesessionid=24561953&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxNyAxMTowODo0NiBQTSZoYXNoX3ZhbHVlPWJGMTdKdmJwSCtnS2hBanpVbjFmcVE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MTcyLjY4LjE1MC44OCZzdHJtX2xlbj0xNA==
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.televisionpost.com/wp-content/uploads/2016/09/MTV-Beats.png" tvg-name="MTV BEATS MUSIC"  group-title="Entertainment",MTV BEATS MUSIC
-http://edge2.liveonlinetv247.xyz/live/natgeo-hq/chunks.m3u8?nimblesessionid=24558069&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxNyAxMDo0Nzo1MSBQTSZoYXNoX3ZhbHVlPS85MU1wMUxzNGNGMlp5NVlKTFF3ekE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MTcyLjY4LjE1MC44OCZzdHJtX2xlbj0xNA==
+http://edge2.liveonlinetv247.xyz/live/natgeo-hq/chunks.m3u8?nimblesessionid=24561953&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxNyAxMTowODo0NiBQTSZoYXNoX3ZhbHVlPWJGMTdKdmJwSCtnS2hBanpVbjFmcVE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MTcyLjY4LjE1MC44OCZzdHJtX2xlbj0xNA==
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/mazhavil%20manorama.jpg" tvg-name="MAZHAVIL MANORAMA"  group-title="Entertainment",MAZHAVIL MANORAMA
-http://mcdn-play-290.5centscdn.net/amsqmazhavil/mazhavillive.stream/tracks-v1a1/index.m3u8?st=gpvGYTclkYRD5gPVembmNQ&e=1511660490
+http://mcdn-play-290.5centscdn.net/amsqmazhavil/mazhavillive.stream/tracks-v1a1/index.m3u8?st=m5zgZUYQ7M1i12gavWbheQ&e=1511661743
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/267px-Kairali_TV.svg.png" tvg-name="KAIRALI TV"  group-title="Entertainment",KAIRALI TV
-http://mcdn-play-290.5centscdn.net/amsqkairali/kairalilive.stream/tracks-v1a1/index.m3u8?st=0sxEExl2HusAtkE36TVqAg&e=1511660567
+http://mcdn-play-290.5centscdn.net/amsqkairali/kairalilive.stream/tracks-v1a1/index.m3u8?st=HkGM_SR8a8CrjaZWnQ7CWw&e=1511661822
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Amrita_TV.svg/867px-Amrita_TV.svg.png" tvg-name="AMRITA TV"  group-title="Entertainment",AMRITA TV
-http://mcdn-play-290.5centscdn.net/amsqamritatv/amritalive.stream/tracks-v1a1/index.m3u8?st=4tWYCr-E9lAHcpIS5T25Kg&e=1511660645
+http://mcdn-play-290.5centscdn.net/amsqamritatv/amritalive.stream/tracks-v1a1/index.m3u8?st=bIGmi3azXqpb2ZPVVgPWvQ&e=1511661899
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Safari_logo_new_25-07-2015.png/1200px-Safari_logo_new_25-07-2015.png" tvg-name="SAFARI TV"  group-title="Entertainment",SAFARI TV
 http://4j2ldmv5dobv-hls-live.wmncdn.net/safaritv2/live2.stream/tracks-v1a1/index.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/-2WJuzxai78o/AAAAAAAAAAI/AAAAAAAAAAA/YSyxD01AIB8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-name="KAPPA TV"  group-title="Entertainment",KAPPA TV
-http://play-290.5centscdn.net/amsqkappatv/kappatvlive.stream/tracks-v1a1/index.m3u8?st=MXUtFds1rwTOCKsjNOYrag&e=1511660697
+http://play-290.5centscdn.net/amsqkappatv/kappatvlive.stream/tracks-v1a1/index.m3u8?st=L1aLkTgHJ9sq5tvjMufUOg&e=1511661956
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lecsen.com/site2012/wp-content/uploads/2012/10/OM_logo_blanc1.png" tvg-name="ONLY MUSIC"  group-title="Entertainment",ONLY MUSIC
 http://lbor3kkkqvaj-hls-live.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/tracks-v1a1/index.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://tvimages.burrp.com/images/channels2/movies/Movies%20Now.png" tvg-name="MOVIES NOW"  group-title="Entertainment",MOVIES NOW
-http://acv.asianetmobiletvplus.online/webstreams/rtuynngnvatgshhzmiouiyiafefmjthx/chunks.m3u8?nimblesessionid=922918
+http://acv.asianetmobiletvplus.online/webstreams/rtuynngnvatgshhzmiouiyiafefmjthx/chunks.m3u8?nimblesessionid=923091
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/arjunthomas/kodi/logos/mazhavil%20manorama.jpg" tvg-name="MANORAMA NEWS"  group-title="News",MANORAMA NEWS
-http://mcdn-play-290.5centscdn.net/amsqmanorama/manoramanewslive.stream/tracks-v1a1/index.m3u8?st=iHO_WXabcsK7BFsZC08fvQ&e=1511660514
+http://mcdn-play-290.5centscdn.net/amsqmanorama/manoramanewslive.stream/tracks-v1a1/index.m3u8?st=S3ObVzYIVdLLPi3AePXO5w&e=1511661772
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mathrubhumi_news.svg/2000px-Mathrubhumi_news.svg.png" tvg-name="MATHRUBHUMI NEWS"  group-title="News",MATHRUBHUMI NEWS
-http://mcdn-play-290.5centscdn.net/amsqmathrubhoomi/mathrubhoomilive.stream/tracks-v1a1/index.m3u8?st=WL729jrJY78C5c5NBK3uJw&e=1511660540
+http://mcdn-play-290.5centscdn.net/amsqmathrubhoomi/mathrubhoomilive.stream/tracks-v1a1/index.m3u8?st=h1C6d4qKtHYUb58UN79OjA&e=1511661794
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/arjunthomas/kodi/logos/kairali%20we.jpg" tvg-name="KAIRALI WE"  group-title="Entertainment",KAIRALI WE
-http://mcdn-play-290.5centscdn.net/amsqwe/kairaliwelive.stream/tracks-v1a1/index.m3u8?st=4UjTEuJZPUY8Y80M0jmvIw&e=1511660593
+http://mcdn-play-290.5centscdn.net/amsqwe/kairaliwelive.stream/tracks-v1a1/index.m3u8?st=A4aaO5odryihlcp73pREfA&e=1511661847
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/arjunthomas/kodi/logos/flowerstv.jpg" tvg-name="FLOWERS TV"  group-title="Entertainment",FLOWERS TV
-http://mcdn-play-290.5centscdn.net/amsqflowers/flowerslive.stream/tracks-v1a1/index.m3u8?st=AXDMCsYlVr4pxsu4skwuiA&e=1511660619
+http://mcdn-play-290.5centscdn.net/amsqflowers/flowerslive.stream/tracks-v1a1/index.m3u8?st=-VMzwcCyxsUqVtWOOynwvw&e=1511661873
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://tvimages.burrp.com/images/channels/Entertainment/DD-news_1.png" tvg-name="DD MALAYALAM"  group-title="Entertainment",DD MALAYALAM
-http://w2-adrd-ltv-ddmala-open.llnw.cinesoft.net/cinehome/smil:ddmalayalamcinehome.smil/chunklist_b800000_sleng.m3u8
+http://w2-adrd-ltv-ddmala-open.llnw.cinesoft.net/cinehome/smil:ddmalayalamcinehome.smil/chunklist_b1500000_sleng.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/arjunthomas/kodi/logos/media%20one.jpg" tvg-name="MEDIA ONE"  group-title="News",MEDIA ONE
-http://w2-adrd-ltv-ddmala-open.llnw.cinesoft.net/cinehome/smil:ddmalayalamcinehome.smil/chunklist_b800000_sleng.m3u8
+http://w2-adrd-ltv-ddmala-open.llnw.cinesoft.net/cinehome/smil:ddmalayalamcinehome.smil/chunklist_b1500000_sleng.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/arjunthomas/kodi/logos/kaumudy.png" tvg-name="KAUMUDY"  group-title="Entertainment",KAUMUDY
 http://28noromvdm6g-hls-live.wmncdn.net/kaumuditv1/live.stream/tracks-v1a1/index.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://jeevannewsonline.com/images/jeevanlogo.png" tvg-name="JEEVAN TV"  group-title="Entertainment",JEEVAN TV
-http://digiwap.nexg.tv/live/_definst_/jeevan.smil/chunklist_w1075046715_b86000.m3u8?wmsAuthSign=20171126042411_fc5b4b315b4b49ce2632c5b7bc489f9a57ae9752&did=ed4ec7db-e083-4b94-8db5-6181fa8918b0&msisdn=&region=&package_id=FACEOFF2&validity=&item_id=CH367&os=android&uid=37B5414A090A144C&sf=digivive_offdeck&appv=5.0.04&build=14950&app=nexGTv_Tamil_android&nmode=WIFI&cid=&scid=&ct=2&network=WIFI
+http://digiwap.nexg.tv/live/_definst_/jeevan.smil/chunklist_w1226069277_b86000.m3u8?wmsAuthSign=20171126044504_372f05c97e25a523e8245ff81409d70ac767d926&did=7ce5a01d-30f4-4e50-a2e4-80dbba263834&msisdn=&region=&package_id=FACEOFF2&validity=&item_id=CH367&os=android&uid=37B5414A090A144C&sf=digivive_offdeck&appv=5.0.04&build=14950&app=nexGTv_Tamil_android&nmode=WIFI&cid=&scid=&ct=2&network=WIFI
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Ramante_Edanthottam.jpg" tvg-name="Raamente Eden Thottam"  group-title="Latest Movie",Raamente Eden Thottam
 https://lh3.googleusercontent.com/UdHKVvWJAdU-HTW190xlcP30pXoPseIOAbf-3fdov6HVUW6_bwgcxV3msSKOkl2FTXTHyx9kwrec3A=m18?
