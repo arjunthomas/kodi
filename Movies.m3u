@@ -1,7 +1,50 @@
 #EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=647000,RESOLUTION=512x288,CODECS="avc1.66.30, mp4a.40.2"
-http://au1-lh.akamaihd.net/i/au1_starplusme@370239/index_600_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1511769058~acl=*~data=hdntl~hmac=5e7413dae993d475ad17badb0701a7f4c4b0dcdc37c3ea5466ce2a23e7b7e1f1
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1233000,RESOLUTION=704x396,CODECS="avc1.77.30, mp4a.40.2"
-http://au1-lh.akamaihd.net/i/au1_starplusme@370239/index_1200_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1511769058~acl=*~data=hdntl~hmac=5e7413dae993d475ad17badb0701a7f4c4b0dcdc37c3ea5466ce2a23e7b7e1f1
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1882000,RESOLUTION=1280x720,CODECS="avc1.77.30, mp4a.40.2"
-http://au1-lh.akamaihd.net/i/au1_starplusme@370239/index_1800_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1511769058~acl=*~data=hdntl~hmac=5e7413dae993d475ad17badb0701a7f4c4b0dcdc37c3ea5466ce2a23e7b7e1f1
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TIYAAN"  group-title="New Group",TIYAAN
+https://lh3.googleusercontent.com/wfjxuJr6mC47MYE2J_gya10LCBWHEnyB_4vpXV2zCtWR7BM7LBclND2fqu6ZzhNIZP87D4kQND0T9Q=m18?cpn=OAsJybhz6swLAqzz&c=WEB_EMBEDDED_PLAYER&cver=20171121
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SOLO"  group-title="New Group",SOLO
+https://lh3.googleusercontent.com/3P2f4kb-vOIfrjYy_M4PhUR214E8aGLclnmOe2Ak1dCBybBNWkJ1F9x9WrNCp7jzKGGjvPslvtNs8A=m18?cpn=Tc5E8MXb9YG5qTlr&c=WEB_EMBEDDED_PLAYER&cver=20171121
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="PUTHAN PANAM"  group-title="New Group",PUTHAN PANAM
+https://lh3.googleusercontent.com/6BIE2aVrb8a5UP5QJmU0xezgdP1dg1Ts3jNCimmLunQMkio457_vpkSyFPJqDGLjBubsOwhn7N9x=m18?cpn=4b_6P3D6HX3IJWEg&c=WEB_EMBEDDED_PLAYER&cver=20171121
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="THONDIMUTHALUM DRIKSAKSHIKALUM"  group-title="New Group",THONDIMUTHALUM DRIKSAKSHIKALUM
+https://lh3.googleusercontent.com/VhCxYROJvCXc81PpXKC4lzEgDdGCzChRJJfqdp8anrEdUrUYkT4o7EGdffXeYTPLkGaRY134q_75mQ=m18?cpn=d1rL3lcSCB5x5EAh&c=WEB_EMBEDDED_PLAYER&cver=20171121
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ORMA UNDO EE MUKHAM"  group-title="New Group",ORMA UNDO EE MUKHAM
+https://lh3.googleusercontent.com/sCrkpovbDl2bs7lrlGomXrCsvgzWgF2iHkaZz-UAu4mjo4sMrYgHGIZUx4nTJBbFKyzpEG6kgC6g=m18?cpn=NER2ZI3pZ4_5ARTi&c=WEB_EMBEDDED_PLAYER&cver=20171121
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ACTION HERO BIJU"  group-title="New Group",ACTION HERO BIJU
+https://lh3.googleusercontent.com/v0LJpss10rxG3AYkmtI3CjvBU1env4rmkv8WLyDlCB_GTuwQRKrCDFEaYCpttrM0MkOOGJwEwHwfqQ=m18?cpn=zXcQK9rpeBLBJPXr&c=WEB_EMBEDDED_PLAYER&cver=20171121
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RAAMENTE EDEN THOTTAM"  group-title="New Group",RAAMENTE EDEN THOTTAM
+https://lh3.googleusercontent.com/UdHKVvWJAdU-HTW190xlcP30pXoPseIOAbf-3fdov6HVUW6_bwgcxV3msSKOkl2FTXTHyx9kwrec3A=m18?cpn=_8uGIKTfhGlLF15i&c=WEB_EMBEDDED_PLAYER&cver=20171121
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="THE GREAT FATHER"  group-title="New Group",THE GREAT FATHER
+https://lh3.googleusercontent.com/5sHTTZQlMRicAiLQIqCZt6tfOzSGN7hAHVyIbzUT8nycd6xp9OhHQvx0sGooa3U5RTfJvYkfDmTG0w=m18?cpn=EmGEMYaDn-5WDSrr&c=WEB_EMBEDDED_PLAYER&cver=20171121
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="GEORGE ETTAN'S POORAM"  group-title="New Group",GEORGE ETTAN'S POORAM
+https://lh3.googleusercontent.com/Bnzed1JE460sl9hd1UXEbbelVNVV-wDUNRrpIlJ675ZNSjiaattRy7a_-wA4MdGYIkWbp4-Z2kBPFQ=m18?cpn=1xKMhiHT4x2MJeVx&c=WEB_EMBEDDED_PLAYER&cver=20171121
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="VIP 2"  group-title="New Group",VIP 2
+https://lh3.googleusercontent.com/pYk597U_Jy14z11EdtmRmb9PkzR4tfarw43SjIGqIyQ0R41RiexH8qDUsdmZJJ9x79JYgDgyqOjSpw=m18?cpn=rh-GC3lJAB-dUUXp&c=WEB_EMBEDDED_PLAYER&cver=20171121
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ROLE MODELS"  group-title="New Group",ROLE MODELS
+https://lh3.googleusercontent.com/jIfvI8HBPLswolNPRZYMvVCYw636n7ONW9dr2LS_qoCqj0EyP5GRd2Fu7duNkPCsHGA1KZ3BDPp5aQ=m18?cpn=jQ1esb8YbNl2i_1j&c=WEB_EMBEDDED_PLAYER&cver=20171121
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SAKHAVU"  group-title="New Group",SAKHAVU
+https://lh3.googleusercontent.com/6tUtH9hRBrgnRcsn3nQsJvJV1-uXL05dvF-W6UQ7ZXx3ikmiNyN6U81R9wFOaa_SEb97oyzDjT2Sxw=m18?cpn=b09gTVnJDCLBCKt7&c=WEB_EMBEDDED_PLAYER&cver=20171121
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ACHAYANS"  group-title="New Group",ACHAYANS
+https://lh3.googleusercontent.com/mnVq2MRKfXvaS9PaRTv4w9EWuoKDaddNU3ff8dxAteFNTdOvDPfLS1A8s5gGY7o9XJyRVlpvY7fWYw=m18?cpn=wIfYuyGHiquR2vRy&c=WEB_EMBEDDED_PLAYER&cver=20171121
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SUNDAY HOLIDAY"  group-title="New Group",SUNDAY HOLIDAY
+https://lh3.googleusercontent.com/S94Fcp_Bajdje9lt_A7fav9LOKNvOJU4NoKK_ofgcsXU7plLEKaH3G4Due2-bQkaE6tIJNK2z069iQ=m18?cpn=Ul9NNU4C-gkG8tTT&c=WEB_EMBEDDED_PLAYER&cver=20171121
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="THRISUVAPEROOR KLIPTHAM"  group-title="New Group",THRISUVAPEROOR KLIPTHAM
+https://lh3.googleusercontent.com/iBozSr8ciqGLBN21WjUJIWpULopVk3KCTA6_aOFF2iFl7sukG3ykZYyA2Kw-KNVyyg1wrw55o53bDg=m18?cpn=k6n6wDLZfH7luDjZ&c=WEB_EMBEDDED_PLAYER&cver=20171121
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="KALI"  group-title="New Group",KALI
+https://lh3.googleusercontent.com/-ywSUDx72a-zOlSwwer2Md3gjhOCgC0qwcb-ELZANkKIdr7JTfoVigRcU9OIG0NqGUauLovUmkSfOQ=m18?cpn=tNlkgQyhKeoTzYtM&c=WEB_EMBEDDED_PLAYER&cver=20171121
+
