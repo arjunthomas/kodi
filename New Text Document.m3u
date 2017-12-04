@@ -4,13 +4,13 @@
 https://raw.githubusercontent.com/arjunthomas/kodi/master/RENDER%20THIS.mp4
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://github.com/arjunthomas/kodi/blob/logos/asianet.png?raw=true" tvg-name="ASIANET"  group-title="Entertainment",ASIANET
-http://sngprcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Asianet/Asianet_600.m3u8?jct=q9m3A_RQSZNdvvNkRxrDjw&pxe=1512423905&st=OLXlw3eRYjkkrVhAqRKuMIaXD2BX3n9I7mNzGtwfS2hJ-Po.*skqhGTZfov0tV3TbPqBPysI7kVi0gPvos1ns7J16dVKJHSXx2boCq0RZ*
+http://sngprcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Asianet/Asianet_600.m3u8?jct=cERt7dybZOMW2O-ocXQiJQ&pxe=1512424805&st=FLj6E0zmNzVOaKxe5V0lTpYkY6xyvHI9GMu9myDJUqgS-Po.*eDYQXJbqHUTLFJPGWH2j8xmJHdijbxfB6cwjCwT4mq98yyFU2opGhpMU*
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://github.com/arjunthomas/kodi/blob/logos/asianet%20movies.jpg?raw=true" tvg-name="ASIANET MOVIES"  group-title="Entertainment",ASIANET MOVIES
-http://sngprcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Asianet_Movies_HD/Asianet_Movies_HD_600.m3u8?jct=q9m3A_RQSZNdvvNkRxrDjw&pxe=1512423905&st=OLXlw3eRYjkkrVhAqRKuMIaXD2BX3n9I7mNzGtwfS2hJ-Po.*skqhGTZfov0tV3TbPqBPysI7kVi0gPvos1ns7J16dVKJHSXx2boCq0RZ*
+http://sngprcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Asianet_Movies_HD/Asianet_Movies_HD_600.m3u8?jct=cERt7dybZOMW2O-ocXQiJQ&pxe=1512424805&st=FLj6E0zmNzVOaKxe5V0lTpYkY6xyvHI9GMu9myDJUqgS-Po.*eDYQXJbqHUTLFJPGWH2j8xmJHdijbxfB6cwjCwT4mq98yyFU2opGhpMU*
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://github.com/arjunthomas/kodi/blob/logos/asianet%20plus.png?raw=true" tvg-name="ASIANET PLUS"  group-title="Entertainment",ASIANET PLUS
-http://sngprcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Asianet_Plus/Asianet_Plus_600.m3u8?jct=q9m3A_RQSZNdvvNkRxrDjw&pxe=1512423905&st=OLXlw3eRYjkkrVhAqRKuMIaXD2BX3n9I7mNzGtwfS2hJ-Po.*skqhGTZfov0tV3TbPqBPysI7kVi0gPvos1ns7J16dVKJHSXx2boCq0RZ*
+http://sngprcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Asianet_Plus/Asianet_Plus_600.m3u8?jct=cERt7dybZOMW2O-ocXQiJQ&pxe=1512424805&st=FLj6E0zmNzVOaKxe5V0lTpYkY6xyvHI9GMu9myDJUqgS-Po.*eDYQXJbqHUTLFJPGWH2j8xmJHdijbxfB6cwjCwT4mq98yyFU2opGhpMU*
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://github.com/arjunthomas/kodi/blob/logos/asianet%20news.png?raw=true" tvg-name="ASIANET NEWS"  group-title="News",ASIANET NEWS
 http://asianetcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live3/chunks.m3u8
@@ -25,19 +25,19 @@ http://sngprcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_HD/Sony_HD_600.m
 http://cdn2.live247stream.com/desiplus/tv/desiplus/stream1/chunks.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/mazhavil%20manorama.jpg" tvg-name="MAZHAVIL MANORAMA"  group-title="Entertainment",MAZHAVIL MANORAMA
-http://mcdn-play-290.5centscdn.net/amsqmazhavil/mazhavillive.stream/tracks-v1a1/index.m3u8?st=FUrBwhdKsaK1T8zsTGV3og&e=1512433409
+http://mcdn-play-290.5centscdn.net/amsqmazhavil/mazhavillive.stream/tracks-v1a1/index.m3u8?st=K6GpZPhIPbTgK2w_0KUgZw&e=1512434114
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/267px-Kairali_TV.svg.png" tvg-name="KAIRALI TV"  group-title="Entertainment",KAIRALI TV
-http://mcdn-play-290.5centscdn.net/amsqkairali/kairalilive.stream/tracks-v1a1/index.m3u8?st=alGDpZPE6a-0_N9yIDgBqw&e=1512433476
+http://mcdn-play-290.5centscdn.net/amsqkairali/kairalilive.stream/tracks-v1a1/index.m3u8?st=owB1EI0Cm20HlYqILPH5hg&e=1512434178
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Amrita_TV.svg/867px-Amrita_TV.svg.png" tvg-name="AMRITA TV"  group-title="Entertainment",AMRITA TV
-http://mcdn-play-290.5centscdn.net/amsqamritatv/amritalive.stream/tracks-v1a1/index.m3u8?st=80w9MGdCnBjgjbzPP2Aspg&e=1512433554
+http://mcdn-play-290.5centscdn.net/amsqamritatv/amritalive.stream/tracks-v1a1/index.m3u8?st=Bxd6GuzOj6bDbL95-gjLrQ&e=1512434257
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Safari_logo_new_25-07-2015.png/1200px-Safari_logo_new_25-07-2015.png" tvg-name="SAFARI TV"  group-title="Entertainment",SAFARI TV
 https://4j2ldmv5dobv-hls-live.wmncdn.net/safaritv2/live2.stream/tracks-v1a1/index.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/-2WJuzxai78o/AAAAAAAAAAI/AAAAAAAAAAA/YSyxD01AIB8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-name="KAPPA TV"  group-title="Entertainment",KAPPA TV
-http://play-290.5centscdn.net/amsqkappatv/kappatvlive.stream/tracks-v1a1/index.m3u8?st=ydPtYr-eD3lCe8dJqKM13A&e=1512433606
+http://play-290.5centscdn.net/amsqkappatv/kappatvlive.stream/tracks-v1a1/index.m3u8?st=ker8Gq9_ps2YFdYesVU97A&e=1512434309
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/arjunthomas/kodi/logos/surya%20music.jpg" tvg-name="SURYA MUSIC"  group-title="Entertainment",SURYA MUSIC
 http://sngprcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Surya_Music/Surya_Music_600.m3u8?jct=cERt7dybZOMW2O-ocXQiJQ&pxe=1512424805&st=FLj6E0zmNzVOaKxe5V0lTpYkY6xyvHI9GMu9myDJUqgS-Po.*eDYQXJbqHUTLFJPGWH2j8xmJHdijbxfB6cwjCwT4mq98yyFU2opGhpMU*
@@ -46,16 +46,16 @@ http://sngprcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Surya_Music/Surya_Mus
 http://sngprcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Star_Gold_HD/Star_Gold_HD_600.m3u8?jct=cERt7dybZOMW2O-ocXQiJQ&pxe=1512424805&st=FLj6E0zmNzVOaKxe5V0lTpYkY6xyvHI9GMu9myDJUqgS-Po.*eDYQXJbqHUTLFJPGWH2j8xmJHdijbxfB6cwjCwT4mq98yyFU2opGhpMU*
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/profile_images/841881102721683461/fFiTRXqO.jpg" tvg-name="SURYA MOVIES"  group-title="Entertainment",SURYA MOVIES
-http://sngprcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Surya_HD/Surya_HD_600.m3u8?jct=q9m3A_RQSZNdvvNkRxrDjw&pxe=1512423905&st=OLXlw3eRYjkkrVhAqRKuMIaXD2BX3n9I7mNzGtwfS2hJ-Po.*skqhGTZfov0tV3TbPqBPysI7kVi0gPvos1ns7J16dVKJHSXx2boCq0RZ*
+http://sngprcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Surya_HD/Surya_HD_600.m3u8?jct=cERt7dybZOMW2O-ocXQiJQ&pxe=1512424805&st=FLj6E0zmNzVOaKxe5V0lTpYkY6xyvHI9GMu9myDJUqgS-Po.*eDYQXJbqHUTLFJPGWH2j8xmJHdijbxfB6cwjCwT4mq98yyFU2opGhpMU*
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mathrubhumi_news.svg/2000px-Mathrubhumi_news.svg.png" tvg-name="MATHRUBHUMI NEWS"  group-title="News",MATHRUBHUMI NEWS
-http://mcdn-play-290.5centscdn.net/amsqmathrubhoomi/mathrubhoomilive.stream/tracks-v1a1/index.m3u8?st=X2s50kKnQSdzhgGYif7WJQ&e=1512433453
+http://mcdn-play-290.5centscdn.net/amsqmathrubhoomi/mathrubhoomilive.stream/tracks-v1a1/index.m3u8?st=uXGxVWx407cje_k4Ui5gkg&e=1512434152
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/arjunthomas/kodi/logos/kairali%20we.jpg" tvg-name="KAIRALI WE"  group-title="Entertainment",KAIRALI WE
-http://mcdn-play-290.5centscdn.net/amsqwe/kairaliwelive.stream/tracks-v1a1/index.m3u8?st=Zw2Uw_os3UH5lFofMoqL_g&e=1512433506
+http://mcdn-play-290.5centscdn.net/amsqwe/kairaliwelive.stream/tracks-v1a1/index.m3u8?st=aeJUkYf7s7WC14c1M1ejkw&e=1512434205
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="https://raw.githubusercontent.com/arjunthomas/kodi/logos/flowerstv.jpg" tvg-name="FLOWERS TV"  group-title="Entertainment",FLOWERS TV
-http://mcdn-play-290.5centscdn.net/amsqflowers/flowerslive.stream/tracks-v1a1/index.m3u8?st=K2uCCFkuKfuA8n2Ta48stw&e=1512433529
+http://mcdn-play-290.5centscdn.net/amsqflowers/flowerslive.stream/tracks-v1a1/index.m3u8?st=TOiTzCJrtfp-xP-oamvk1g&e=1512434235
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://tvimages.burrp.com/images/channels/Entertainment/DD-news_1.png" tvg-name="DD MALAYALAM"  group-title="Entertainment",DD MALAYALAM
 http://w2-adrd-ltv-ddmala-open.llnw.cinesoft.net/cinehome/smil:ddmalayalamcinehome.smil/chunklist_b1500000_sleng.m3u8
@@ -67,7 +67,7 @@ http://w2-adrd-ltv-ddmala-open.llnw.cinesoft.net/cinehome/smil:ddmalayalamcineho
 http://28noromvdm6g-hls-live.wmncdn.net/kaumuditv1/live.stream/tracks-v1a1/index.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="http://jeevannewsonline.com/images/jeevanlogo.png" tvg-name="JEEVAN TV"  group-title="Entertainment",JEEVAN TV
-http://digiwap.nexg.tv/live/_definst_/jeevan.smil/chunklist_w449080292_b524000.m3u8?wmsAuthSign=20171205030542_9ca2711896c1d73993125271d5260a6a80a41be5&did=b0ae527e-abe3-4146-a937-4ae94e445970&msisdn=&region=&package_id=FACEOFF2&validity=&item_id=CH367&os=android&uid=37B5414A090A144C&sf=digivive_offdeck&appv=5.0.04&build=14950&app=nexGTv_Tamil_android&nmode=WIFI&cid=&scid=&ct=2&network=WIFI
+http://digiwap.nexg.tv/live/_definst_/jeevan.smil/chunklist_w12907112_b524000.m3u8?wmsAuthSign=20171205031724_e3939d2d2e9660caa8507c8c80f75239b4d0363f&did=872b6abe-f958-4565-8742-d23e621555d1&msisdn=&region=&package_id=FACEOFF2&validity=&item_id=CH367&os=android&uid=37B5414A090A144C&sf=digivive_offdeck&appv=5.0.04&build=14950&app=nexGTv_Tamil_android&nmode=WIFI&cid=&scid=&ct=2&network=WIFI
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="https://www.airtv.net/images/logos/hindi/AAPKA_COLORS_LOGO_PRINT.png" tvg-name="COLORS HD"  group-title="Entertainment",COLORS HD
 http://sngprcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_HD/Colors_HD_600.m3u8?jct=cERt7dybZOMW2O-ocXQiJQ&pxe=1512424805&st=FLj6E0zmNzVOaKxe5V0lTpYkY6xyvHI9GMu9myDJUqgS-Po.*eDYQXJbqHUTLFJPGWH2j8xmJHdijbxfB6cwjCwT4mq98yyFU2opGhpMU*
