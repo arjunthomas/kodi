@@ -1,10 +1,13 @@
 #EXTM3U
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SARVOPARI PALAKAARAN"  group-title="New Group",Sarvopari Palakaaran
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SARVOPARI PAALAKAARAN"  group-title="New Group",SARVOPARI PAALAKAARAN
 https://lh3.googleusercontent.com/3-rUCq3yUh8ck-sXcBq2oDLKaY35fvpsrSy0byfQ5cJAOV1v0Phz888NIOHLovNtzwCBal0z_ic8mw=m18?cpn=034gB4pDZSb3KdzI&c=WEB_EMBEDDED_PLAYER&cver=20171128
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SOLO"  group-title="New Group",SOLO
 https://lh3.googleusercontent.com/3P2f4kb-vOIfrjYy_M4PhUR214E8aGLclnmOe2Ak1dCBybBNWkJ1F9x9WrNCp7jzKGGjvPslvtNs8A=m18?cpn=Tc5E8MXb9YG5qTlr&c=WEB_EMBEDDED_PLAYER&cver=20171121
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SHERLOCK TOMS"  group-title="New Group",SHERLOCK TOMS
+https://lh3.googleusercontent.com/FKwOqD_UnbqmrVVbxLv4HOr3Ece3X9qbR7OvGUa4A2eRrHz8B8M3L5DC7ujgDYe--7C7yMZAdSa1UA=m18?cpn=AHjdlEH992Gqtlx3&c=WEB_EMBEDDED_PLAYER&cver=20171207
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TIYAAN"  group-title="New Group",TIYAAN
 https://lh3.googleusercontent.com/wfjxuJr6mC47MYE2J_gya10LCBWHEnyB_4vpXV2zCtWR7BM7LBclND2fqu6ZzhNIZP87D4kQND0T9Q=m18?cpn=OAsJybhz6swLAqzz&c=WEB_EMBEDDED_PLAYER&cver=20171121
@@ -12,8 +15,20 @@ https://lh3.googleusercontent.com/wfjxuJr6mC47MYE2J_gya10LCBWHEnyB_4vpXV2zCtWR7B
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="THONDIMUTHALUM DRIKSAKSHIKALUM"  group-title="New Group",THONDIMUTHALUM DRIKSAKSHIKALUM
 https://lh3.googleusercontent.com/VhCxYROJvCXc81PpXKC4lzEgDdGCzChRJJfqdp8anrEdUrUYkT4o7EGdffXeYTPLkGaRY134q_75mQ=m18?cpn=d1rL3lcSCB5x5EAh&c=WEB_EMBEDDED_PLAYER&cver=20171121
 
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="LAKSHYAM"  group-title="New Group",LAKSHYAM
+https://lh3.googleusercontent.com/9Y5XeniFB2C6llBN-nRGwH6p-Mv7xI17pEeoHIKRmF7ggbwfO9x_Qczon32Aj5zYszRpeouei-FV8A=m18?cpn=mlU7WUDIQpBmSN94&c=WEB_EMBEDDED_PLAYER&cver=20171207
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MERSAL"  group-title="New Group",MERSAL
+https://lh3.googleusercontent.com/NmA7A4x1lhCWqABTPG-M4F6JhIfwphL-zc_OU-k7lytfN3mKY2D28TTVrSfIcrm_U6y9LNUpYqaKLg=m18?cpn=PrxBOS6FBEuFWHsi&c=WEB_EMBEDDED_PLAYER&cver=20171207
+
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ROLE MODELS"  group-title="New Group",ROLE MODELS
 https://lh3.googleusercontent.com/jIfvI8HBPLswolNPRZYMvVCYw636n7ONW9dr2LS_qoCqj0EyP5GRd2Fu7duNkPCsHGA1KZ3BDPp5aQ=m18?cpn=jQ1esb8YbNl2i_1j&c=WEB_EMBEDDED_PLAYER&cver=20171121
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="PULLIKAARAN STAARA"  group-title="New Group",PULLIKAARAN STAARA
+https://lh3.googleusercontent.com/36mXuVL6oIYcfiPus5sOdGMdJuHk6VChgAv1CuD-DfdBVnT0hUMpo5sllGfFwgH3owyZdpt9vOWkEg=m18?cpn=j9B932pWHn3ySSaK&c=WEB_EMBEDDED_PLAYER&cver=20171207
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="REKSHATHIKARI BAIJU,OPPU."  group-title="New Group",REKSHATHIKARI BAIJU,OPPU.
+https://lh3.googleusercontent.com/IAAq7d1LZlLHUqjYMtM-iKHYpG3_nglMEzDOqVb_tKSsBO3BhIF9qMs-dVOtkLl_J0wZ9UVZhumY4Q=m18?cpn=sd8rQOScxvBpnRtJ&c=WEB_EMBEDDED_PLAYER&cver=20171207
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SAKHAVU"  group-title="New Group",SAKHAVU
 https://lh3.googleusercontent.com/6tUtH9hRBrgnRcsn3nQsJvJV1-uXL05dvF-W6UQ7ZXx3ikmiNyN6U81R9wFOaa_SEb97oyzDjT2Sxw=m18?cpn=b09gTVnJDCLBCKt7&c=WEB_EMBEDDED_PLAYER&cver=20171121
@@ -50,6 +65,3 @@ https://lh3.googleusercontent.com/Bnzed1JE460sl9hd1UXEbbelVNVV-wDUNRrpIlJ675ZNSj
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="VIP 2"  group-title="New Group",VIP 2
 https://lh3.googleusercontent.com/pYk597U_Jy14z11EdtmRmb9PkzR4tfarw43SjIGqIyQ0R41RiexH8qDUsdmZJJ9x79JYgDgyqOjSpw=m18?cpn=rh-GC3lJAB-dUUXp&c=WEB_EMBEDDED_PLAYER&cver=20171121
-
-
-
