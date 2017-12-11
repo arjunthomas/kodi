@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MATCH BOX"  group-title="New Group",MATCH BOX
+ https://lh3.googleusercontent.com/v8aLPSbp94c-oc9bqhHB3lm2PhJpIBbex7NJDDFzkYZ15cZPsLNvtPuieQuhoT6C64SFJ-1Xpfu_Iw=m18?
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CHUNKSSS"  group-title="New Group",CHUNKSSS
 https://lh3.googleusercontent.com/MPR_-NwhF1vZsI56X8cKkTu72MCwnDkGimsb0DbneEDe77UGUpUlfJM_SPEmGyblijwD7SMIor6H1WI1ZuiRTyx9HjunVuYoYZRplQ=m18?cpn=eSuRfaczGpaAgTtC&c=WEB_EMBEDDED_PLAYER&cver=20171207
@@ -30,7 +32,7 @@ https://lh3.googleusercontent.com/jIfvI8HBPLswolNPRZYMvVCYw636n7ONW9dr2LS_qoCqj0
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="PULLIKAARAN STAARA"  group-title="New Group",PULLIKAARAN STAARA
 https://lh3.googleusercontent.com/36mXuVL6oIYcfiPus5sOdGMdJuHk6VChgAv1CuD-DfdBVnT0hUMpo5sllGfFwgH3owyZdpt9vOWkEg=m18?cpn=j9B932pWHn3ySSaK&c=WEB_EMBEDDED_PLAYER&cver=20171207
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="REKSHATHIKARI BAIJU,OPPU."  group-title="New Group",REKSHATHIKARI BAIJU OPPU.
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="OPPU."  group-title="New Group",OPPU.
 https://lh3.googleusercontent.com/IAAq7d1LZlLHUqjYMtM-iKHYpG3_nglMEzDOqVb_tKSsBO3BhIF9qMs-dVOtkLl_J0wZ9UVZhumY4Q=m18?cpn=sd8rQOScxvBpnRtJ&c=WEB_EMBEDDED_PLAYER&cver=20171207
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SAKHAVU"  group-title="New Group",SAKHAVU
