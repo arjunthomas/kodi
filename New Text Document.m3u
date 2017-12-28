@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/arjunthomas/kodi/master/icon%20bm.png" tvg-name="Bloody Mallu"  group-title="Bloody Mallu",Bloody Mallu
+https://raw.githubusercontent.com/arjunthomas/kodi/master/RENDER%20THIS.mp4
 #EXTINF:0, group-title="English",AL Jazeera
 https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/AL_Jazeera/AL_Jazeera_800.m3u8|Referer=https://jiotv.com/
 #EXTINF:0, group-title="English",Animal Planet (Eng)
