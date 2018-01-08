@@ -1,36 +1,39 @@
 #EXTM3U
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="GOODALOJANA"  group-title="Bloody Mallu Movies",GOODALOJANA
+#EXTINF:0, tvg-id="New EPG" tvg-logo="https://images.desimartini.com/media/main/movie_poster_detail/2017-6/d31d9a14-ba6a-4cf8-a222-14f47c95da65.jpg" tvg-name="RICHIE"  group-title="Bloody Mallu Movies",RICHIE
+https://lh3.googleusercontent.com/v1JqYCwwN0R2XuOVFeCmudGFPDFE_mQYqzmbqicchJRolcFgTrBAeR863Mla28ie0syoDM35iLtf1Q=m18?.mp4
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/0c/77/f8/0c77f8bd-6a07-62ea-d1fc-2697b9e49bc2/cover.jpg/268x0w.jpg" tvg-name="GOODALOJANA"  group-title="Bloody Mallu Movies",GOODALOJANA
 https://lh3.googleusercontent.com/K_PI6DJWu8ai-ZmUclUOUwa3MjqUpYH9dXKfG3WIhgPC9NXWlj0mNjqw6tzI1b0dPVWHkSmqOj2hxA=m18?.mp4
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="VILLAN"  group-title="Bloody Mallu Movies",VILLAN
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://pressks.com/wp-content/uploads/2017/10/villain-movie-review-rating-mohanlal.jpg" tvg-name="VILLAN"  group-title="Bloody Mallu Movies",VILLAN
 https://lh3.googleusercontent.com/pvPhwh2xRX8cxLUJVTqr_ZpURCVVSV4IKFs3QpXsTMhPIjIvFaBPtWW-rhcoRXLtKD9vJd7P8sHvsA=m18?.mp4
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="HONEYBEE 2.5"  group-title="Bloody Mallu Movies",HONEYBEE 2.5
+#EXTINF:0, tvg-id="New EPG" tvg-logo="https://www.filmibeat.com/img/220x80x275/popcorn/movie_posters/honey-bee-25-20170817103935-16265.jpg" tvg-name="HONEYBEE 2.5"  group-title="Bloody Mallu Movies",HONEYBEE 2.5
 https://lh3.googleusercontent.com/Z24AkuiV2KxhFC6D1n4lgrqqSckvHVAzD-ka5v7XlAZ5ov9cyJQy-WV6ey5Udlnw4PbqV2xDPLeSPw=m18?.mp4
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RAMLEELA"  group-title="Bloody Mallu Movies",RAMLEELA
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://images.indianexpress.com/2017/12/ramaleela.jpg" tvg-name="RAMLEELA"  group-title="Bloody Mallu Movies",RAMLEELA
 https://lh3.googleusercontent.com/qX0A4NshkxMIHYEI7wJuM_UA3t_zKb1mR-zFIqqqleXb3-o3fk0jehPPbtqU5z0PQTSLC8kbBwEdww=m18?.mp4
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="POKKIRI SIMON"  group-title="Bloody Mallu Movies",POKKIRI SIMON
+#EXTINF:0, tvg-id="New EPG" tvg-logo="https://www.filmibeat.com/img/2017/09/pokkiri-simon-review-cover-22-1506059917.jpg" tvg-name="POKKIRI SIMON"  group-title="Bloody Mallu Movies",POKKIRI SIMON
 https://lh3.googleusercontent.com/IX2CpueIfHEMtHDWwdFpmll0-3OWLz2n-A4wDVET3FR8l4dcTSSsCDtsqzoddQ41yfhrPI65iohOJA=m18?.mp4
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="UDAHARANAM SUJATHA"  group-title="Bloody Mallu Movies",UDAHARANAM SUJATHA
+#EXTINF:0, tvg-id="New EPG" tvg-logo="https://dhoom.filmipop.com/media//movie/2017/Sep/1505902795-Udaharanam-SujathaP.jpg" tvg-name="UDAHARANAM SUJATHA"  group-title="Bloody Mallu Movies",UDAHARANAM SUJATHA
 https://lh3.googleusercontent.com/6w9XFx9aO31t2hzwfoOvoKB8qhUPqcyHVtCG-GJzccJ2ccZppRp6ZskOpx3dnk0VaCdPkLdv3B84eQ=m18?.mp4
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="THARANGAM"  group-title="Bloody Mallu Movies",THARANGAM
+#EXTINF:0, tvg-id="New EPG" tvg-logo="https://pbs.twimg.com/media/DKOatfEUQAAB95E.jpg" tvg-name="THARANGAM"  group-title="Bloody Mallu Movies",THARANGAM
 https://lh3.googleusercontent.com/j42K4vSfC_1MmvqX_6-yvyaa9L1CTN0-CRE6zaKc8zn9-Pm9j-2ecD03xUYAcyVKXtmJMafbUebHcA=m18?.mp4
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="NJANDUKALUDE NAATIL ORU IDAVELA"  group-title="Bloody Mallu Movies",NJANDUKALUDE NAATIL ORU IDAVELA
+#EXTINF:0, tvg-id="New EPG" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMWU1ODMzMDQtYzFkZi00MGU5LTk4Y2QtNWM0ZTdlNDk5M2E5XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_UY268_CR1,0,182,268_AL_.jpg" tvg-name="NJANDUKALUDE NAATIL ORU IDAVELA"  group-title="Bloody Mallu Movies",NJANDUKALUDE NAATIL ORU IDAVELA
 https://lh3.googleusercontent.com/B5zfGhBaL6SkDeJ85bk9I6di-de4Nkc3IayDYwH3ltIsXEMRhUp5yZbPiDW7Z_sefAzhr8bAgW0od_8d6VyGOuJQ3_p8tr66_3an=m18?.mp4
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MATCH BOX"  group-title="Bloody Mallu Movies",MATCH BOX
+#EXTINF:0, tvg-id="New EPG" tvg-logo="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwiJzenp4sfYAhVGyVMKHeCwCvUQjBwIBA&url=https%3A%2F%2Fd1k89quaw9hlgo.cloudfront.net%2Fraagaimg%2Fr_img%2F250%2Fm%2Fm0003303.jpg&psig=AOvVaw1_dPxh7D1VL4fKVxkKfWSJ&.jpg" tvg-name="MATCH BOX"  group-title="Bloody Mallu Movies",MATCH BOX
 https://lh3.googleusercontent.com/v8aLPSbp94c-oc9bqhHB3lm2PhJpIBbex7NJDDFzkYZ15cZPsLNvtPuieQuhoT6C64SFJ-1Xpfu_Iw=m18?.mp4
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CHUNKSSS"  group-title="Bloody Mallu Movies",CHUNKSSS
+#EXTINF:0, tvg-id="New EPG" tvg-logo="https://i0.wp.com/moviesweed.org/wp-content/uploads/2017/07/Chunkzz-2017-Malayalam-Movie-Poster.jpg?w=620&ssl=1" tvg-name="CHUNKSSS"  group-title="Bloody Mallu Movies",CHUNKSSS
 https://lh3.googleusercontent.com/MPR_-NwhF1vZsI56X8cKkTu72MCwnDkGimsb0DbneEDe77UGUpUlfJM_SPEmGyblijwD7SMIor6H1WI1ZuiRTyx9HjunVuYoYZRplQ=m18?.mp4
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SARVOPARI PAALAKAARAN"  group-title="Bloody Mallu Movies",SARVOPARI PAALAKAARAN
+#EXTINF:0, tvg-id="New EPG" tvg-logo="https://dhoom.filmipop.com/media//movie/2017/Jul/1500534961-sarva.jpg" tvg-name="SARVOPARI PAALAKAARAN"  group-title="Bloody Mallu Movies",SARVOPARI PAALAKAARAN
 https://lh3.googleusercontent.com/3-rUCq3yUh8ck-sXcBq2oDLKaY35fvpsrSy0byfQ5cJAOV1v0Phz888NIOHLovNtzwCBal0z_ic8mw=m18?.mp4
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SOLO"  group-title="Bloody Mallu Movies",SOLO
@@ -57,7 +60,7 @@ https://lh3.googleusercontent.com/jIfvI8HBPLswolNPRZYMvVCYw636n7ONW9dr2LS_qoCqj0
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="PULLIKAARAN STAARA"  group-title="Bloody Mallu Movies",PULLIKAARAN STAARA
 https://lh3.googleusercontent.com/36mXuVL6oIYcfiPus5sOdGMdJuHk6VChgAv1CuD-DfdBVnT0hUMpo5sllGfFwgH3owyZdpt9vOWkEg=m18?.mp4
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="REKSHADHIKARI BAJU,OPPU"  group-title="Bloody Mallu Movies",REKSHADHIKARI BAJU,OPPU
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="OPPU"  group-title="Bloody Mallu Movies",OPPU
 https://lh3.googleusercontent.com/IAAq7d1LZlLHUqjYMtM-iKHYpG3_nglMEzDOqVb_tKSsBO3BhIF9qMs-dVOtkLl_J0wZ9UVZhumY4Q=m18?.mp4
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SAKHAVU"  group-title="Bloody Mallu Movies",SAKHAVU
