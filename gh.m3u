@@ -1,20 +1,20 @@
 #EXTM3U
 #EXTINF:0, group-title="Malayalam",Amrita TV
-https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Amrita_TV/Amrita_TV_800.m3u8
+http://livemalayalamtv.com/jioplayer.php?id=Amrita_TV/Amrita_TV_800.m3u8
 #EXTINF:0, group-title="Malayalam",Asianet HD
-https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Asianet/Asianet_1200.m3u8
+http://livemalayalamtv.com/jioplayer.php?id=Asianet/Asianet_1200.m3u8
 #EXTINF:0, group-title="Malayalam",Asianet Movies HD
-https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Asianet_Movies_HD/Asianet_Movies_HD_1200.m3u8
+http://livemalayalamtv.com/jioplayer.php?id=Asianet_Movies_HD/Asianet_Movies_HD_800.m3u8
 #EXTINF:0, group-title="Malayalam",Asianet News
-https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Asianet_News/Asianet_News_800.m3u8
+http://livemalayalamtv.com/jioplayer.php?id=Asianet_News/Asianet_News_800.m3u8
 #EXTINF:0, group-title="Malayalam",Asianet Plus HD
-https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Asianet_Plus/Asianet_Plus_800.m3u8
+http://livemalayalamtv.com/jioplayer.php?id=Asianet_Plus/Asianet_Plus_800.m3u8
 #EXTINF:0, group-title="Malayalam",Channel D
-https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/ChannelDHD/ChannelDHD_800.m3u8
+http://livemalayalamtv.com/jioplayer.php?id=ChannelDHD/ChannelDHD_800.m3u8
 #EXTINF:0, group-title="Malayalam",DD Malayalam
-https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/DD_Malayalam/DD_Malayalam_800.m3u8
+http://livemalayalamtv.com/jioplayer.php?id=DD_Malayalam/DD_Malayalam_800.m3u8
 #EXTINF:0, group-title="Malayalam",Flower TV
-https://jiotvweb.cdn.jio.com/jiotv.live.cdn.jio.com/Flower_TV/Flower_TV_800.m3u8
+http://livemalayalamtv.com/jioplayer.php?id=Flower_TV/Flower_TV_800.m3u8
 #EXTINF:0, group-title="Malayalam",Jaihind tv
 http://livemalayalamtv.com/jioplayer.php?id=Jaihind_tv/Jaihind_tv_800.m3u8
 #EXTINF:0, group-title="Malayalam",Janam TV
