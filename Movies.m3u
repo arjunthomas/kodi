@@ -245,7 +245,7 @@ https://lh3.googleusercontent.com/fAtJFSCYbsUDISOoCZEnGG9Qs3nBQs5dS4eqFxNHrLnQ5W
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="https://extraimage.net/images/2017/11/14/8470c1f512601620686184f36ad87749.jpg" tvg-name="Thor: Ragnarok"  group-title="Bloody Mallu English",Thor: Ragnarok
-http://dl.filmbaroon.com/Thor.Ragnarok.2017.720p.WEB-DL.MkvCage.mkv
+http://dl.filmbaroon.com/Thor.Ragnarok.2017.480p.WEB-DL.Pahe.mkv
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="JURASSIC PARK 1"  group-title="Bloody Mallu English",JURASSIC PARK 1
 http://dl.my-film.me/hasan/film/Jurassic.Park.1993.720p.Ganool-[My-Film].mkv
@@ -346,6 +346,9 @@ https://lh3.googleusercontent.com/3KTvRhSPJAhy_Cdb3Sj44QTNTq1T83M24llg1wLOhIOqg1
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="https://i.ytimg.com/vi/RzpgXOAyYrE/hqdefault.jpg" tvg-name="AIYAPPANTE AMMA NEYAPPAM CHUTTU"  group-title="720p Higher Quality Malayalam",AIYAPPANTE AMMA NEYAPPAM CHUTTU
 https://lh3.googleusercontent.com/fAtJFSCYbsUDISOoCZEnGG9Qs3nBQs5dS4eqFxNHrLnQ5WNu6bRWjtSq7eSFRFXgQ3BuB05kLFIUzg=m22?.mp4
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="https://extraimage.net/images/2017/11/14/8470c1f512601620686184f36ad87749.jpg" tvg-name="Thor: Ragnarok"  group-title="720p Higher Quality English",Thor: Ragnarok
+http://dl.filmbaroon.com/Thor.Ragnarok.2017.480p.WEB-DL.Pahe.mkv
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="JURASSIC PARK 1"  group-title="720p Higher Quality English",JURASSIC PARK 1
 http://dl.my-film.me/hasan/film/Jurassic.Park.1993.720p.Ganool-[My-Film].mkv
