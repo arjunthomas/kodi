@@ -3,7 +3,7 @@
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/arjunthomas/kodi/master/icon%20bm.png" tvg-name="Bloody Mallu"  group-title="Bloody Mallu",Bloody Mallu
 https://raw.githubusercontent.com/arjunthomas/kodi/master/RENDER%20THIS.mp4
 #EXTINF:0, group-title="Malayalam",Amrita TV
-http://www.flexlivetv.com/static/ftv?id=Amrita_TV/Amrita_TV_800.m3u8
+http://www.livemalayalamtv.com/jioplayer.php?=Amrita_TV/Amrita_TV_800.m3u8
 #EXTINF:0, group-title="Malayalam",Asianet HD
 http://www.livemalayalamtv.com/jioplayer.php?id=Asianet/Asianet_1200.m3u8
 #EXTINF:0, group-title="Malayalam",Asianet Movies HD
