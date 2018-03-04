@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:0, tvg-id="New EPG" tvg-logo="https://extraimage.net/images/2018/03/03/a81fae5a9b3c9a50cf84d025d6add710.jpg" tvg-name="QUEEN"  group-title="Malayalam Movies",QUEEN
+https://lh3.googleusercontent.com/Baa2At-pKzKpPOfr_8PB3jahMBlWcWylt6cI5i1sdkAfVATUuniN3JKPalsqNDWG-GKkIVXlXUu2bQ=m18?.mp4
+
 #EXTINF:0, tvg-id="New EPG" tvg-logo="https://extraimage.net/images/2018/02/07/d4e7edefd7b9438659b799ac3d2db1ee.jpg" tvg-name="LAVA KUSHA"  group-title="Malayalam Movies",LAVA KUSHA
 https://lh3.googleusercontent.com/2SdUSqFOUsgXI72lCzaveV_0Abm6JQyfqDOYBxqZrWY8ieeXcyz-PGnj8PnZ5vlBMLak5UYBwkWCQg=m18?.mp4
 
