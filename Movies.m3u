@@ -1,18 +1,21 @@
 #EXTM3U
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="https://extraimage.net/images/2018/03/16/82e8a65323bf0528a08ffa56e4cda2d6.jpg" tvg-name="aadu 2"  group-title="Malayalam Movies★NEW★",aadu2
+#EXTINF:0, tvg-id="New EPG" tvg-logo="https://extraimage.net/images/2018/03/20/7443924e8782ee7f0c9fe9eddad445ad.jpg" tvg-name="Master Piece"  group-title="Malayalam Movies★NEW★",Master Piece
+https://lh3.googleusercontent.com/yAD7yNZy_3PK2oRIIkgCIEvc8TMVtsPnWiEmKXqGYfObpB3qr57R-SPmDdB9uQeEBxEs3ATrxNUBnQ=m18?.mp4
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="https://extraimage.net/images/2018/03/16/82e8a65323bf0528a08ffa56e4cda2d6.jpg" tvg-name="aadu 2"  group-title="Malayalam Movies",aadu2
 https://lh3.googleusercontent.com/2Fxj9QqGWCSb4K6dNm7PCW13Y6Z-Swgl7pf2_IFIqJeKJoBLmofk_FJ3gRrvlbAghyQQX3pF-dqqhw=m18?.mp4
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://img.nowrunning.com/content/movie/2016/kaliy-20004/Stills/Kaliyan-movie-02.jpg" tvg-name="Kaaliyan"  group-title="Malayalam Movies★NEW★",Kaaliyan
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://img.nowrunning.com/content/movie/2016/kaliy-20004/Stills/Kaliyan-movie-02.jpg" tvg-name="Kaaliyan"  group-title="Malayalam Movies",Kaaliyan
 https://lh3.googleusercontent.com/KUk6W3WLAIlUP3FwPOfy8lm5mPTdIfsaG5rvVeyXNKrYHooQNLZmseMDi76IVf5DfkSTKK_-cuBehQ=m18?.mp4
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="https://extraimage.net/images/2018/03/12/f625a46bc3279ad3fc553c92bbec541f.jpg" tvg-name="Duryodhana"  group-title="Malayalam Movies★NEW★",Duryodhana
+#EXTINF:0, tvg-id="New EPG" tvg-logo="https://extraimage.net/images/2018/03/12/f625a46bc3279ad3fc553c92bbec541f.jpg" tvg-name="Duryodhana"  group-title="Malayalam Movies",Duryodhana
 https://lh3.googleusercontent.com/SysYKZeipd-TAyRymhAl_pni-Y1H8ijPpD7R2PvH8o33r38e9EW_1iUb3gvxpciL4gWaeA9Ukmo2zA=m18?.mp4
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="https://123subs.com/images/thumbs/402.jpg" tvg-name="History of Joy"  group-title="Malayalam Movies★NEW★",History of Joy
+#EXTINF:0, tvg-id="New EPG" tvg-logo="https://123subs.com/images/thumbs/402.jpg" tvg-name="History of Joy"  group-title="Malayalam Movies",History of Joy
 https://lh3.googleusercontent.com/EzVpIlG0wltbvmlRbyi8V6mR4nT8QF_lDXh216hElm7kExkIq3qJrOM9sbTkhqDyjJVKQoGiWKzEOQ=m18?.mp4
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Diwanjimoola_Grand_Prix_film_poster.jpg/220px-Diwanjimoola_Grand_Prix_film_poster.jpg" tvg-name="Diwanji Moola Grand Prix"  group-title="Malayalam Movies★NEW★",Diwanji Moola Grand Prix
+#EXTINF:0, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Diwanjimoola_Grand_Prix_film_poster.jpg/220px-Diwanjimoola_Grand_Prix_film_poster.jpg" tvg-name="Diwanji Moola Grand Prix"  group-title="Malayalam Movies",Diwanji Moola Grand Prix
 https://lh3.googleusercontent.com/bVKlPm6skHmEbtPtlYUUQzAJ3JoVPY04g9-Mg1j9xOrCtcsnb1PydQ3T43XZaO9sXSSztZHlKsvKrA=m18?.mp4
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="https://extraimage.net/images/2018/03/03/a81fae5a9b3c9a50cf84d025d6add710.jpg" tvg-name="QUEEN"  group-title="Malayalam Movies",QUEEN
