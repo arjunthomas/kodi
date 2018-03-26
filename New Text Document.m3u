@@ -3,7 +3,7 @@
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/arjunthomas/kodi/master/icon%20bm.png" tvg-name="Bloody Mallu"  group-title="Malayalam",Bloody Mallu
 https://raw.githubusercontent.com/arjunthomas/kodi/master/RENDER%20THIS.mp4
 #EXTINF:0, group-title="English",AL Jazeera
-http://1x93.ruhutv.stream/sergvcffrfb.php?cid=AL_Jazeera/AL_Jazeera_800.m3u8EMPTY
+http://1x93.ruhutv.stream/sergvcffrfb.php?cid=AL_Jazeera/AL_Jazeera_800.m3u8
 #EXTINF:0, group-title="English",Animal Planet (Eng)
 http://1x93.ruhutv.stream/sergvcffrfb.php?cid=Animal_Planet_English/Animal_Planet_English_800.m3u8
 #EXTINF:0, group-title="English",Animal Planet HD World
