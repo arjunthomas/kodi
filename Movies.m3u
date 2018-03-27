@@ -1,6 +1,9 @@
 #EXTM3U
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="https://extraimage.net/images/2018/03/20/7443924e8782ee7f0c9fe9eddad445ad.jpg" tvg-name="Master Piece"  group-title="Malayalam Movies★NEW★",Master Piece
+#EXTINF:0, tvg-id="New EPG" tvg-logo="https://extraimage.net/images/2018/03/27/918696699cfd84eac41e38bf4e0ae21e.jpg" tvg-name="Shikkari Shambhu"  group-title="Malayalam Movies★NEW★",Shikkari Shambhu
+https://lh3.googleusercontent.com/yAD7yNZy_3PK2oRIIkgCIEvc8TMVtsPnWiEmKXqGYfObpB3qr57R-SPmDdB9uQeEBxEs3ATrxNUBnQ=m18?.mp4
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="https://extraimage.net/images/2018/03/20/7443924e8782ee7f0c9fe9eddad445ad.jpg" tvg-name="Master Piece"  group-title="Malayalam Movies",Master Piece
 https://lh3.googleusercontent.com/yAD7yNZy_3PK2oRIIkgCIEvc8TMVtsPnWiEmKXqGYfObpB3qr57R-SPmDdB9uQeEBxEs3ATrxNUBnQ=m18?.mp4
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="https://extraimage.net/images/2018/03/16/82e8a65323bf0528a08ffa56e4cda2d6.jpg" tvg-name="aadu 2"  group-title="Malayalam Movies",aadu2
