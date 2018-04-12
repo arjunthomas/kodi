@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/arjunthomas/kodi/master/icon%20bm.png" tvg-name="Bloody Mallu"  group-title="Malayalam",Bloody Mallu
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/arjunthomas/kodi/master/icon%20bm.png" tvg-name="Bloody Mallu"  group-title="Asianet Only",Bloody Mallu
 https://raw.githubusercontent.com/arjunthomas/kodi/master/RENDER%20THIS.mp4
 #EXTINF:0, group-title="Asianet Only" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/db/Asianet-New-Logo.jpg/revision/latest?cb=20160421162115",Asianet
 http://103.252.220.36:8080/asiaNETsd/index.m3u8
