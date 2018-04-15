@@ -1,7 +1,4 @@
 #EXTM3U
-#EXT-X-MEDIA-SEQUENCE:0 
-#EXTINF:0, 
+#EXTINF:0, titanic
 https://github.com/arjunthomas/kodi/raw/master/RENDER%20THIS.mp4
-#EXT-X-DISCONTINUITY 
-#EXTINF:10.0, 
 https://github.com/arjunthomas/kodi/raw/master/technical%20difficulty.mp4
