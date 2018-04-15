@@ -1,8 +1,7 @@
 #EXTM3U
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="http://www.twentyfournews.com/wp-content/uploads/2017/10/Asif-Ali-Murali-Gopy-s-KNews666.jpg" tvg-name="KATTU"  group-title="Bloody Mallu Malayalam",KATTU
-https://raw.githubusercontent.com/arjunthomas/kodi/master/Movies.m3u
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="https://images.desimartini.com/media/main/movie_poster_detail/2017-6/d31d9a14-ba6a-4cf8-a222-14f47c95da65.jpg" tvg-name="RICHIE"  group-title="Bloody Mallu Malayalam",RICHIE
-https://lh3.googleusercontent.com/v1JqYCwwN0R2XuOVFeCmudGFPDFE_mQYqzmbqicchJRolcFgTrBAeR863Mla28ie0syoDM35iLtf1Q=m22?.mp4
-
+#EXT-X-MEDIA-SEQUENCE:0 
+#EXTINF:0, 
+https://github.com/arjunthomas/kodi/raw/master/RENDER%20THIS.mp4
+#EXT-X-DISCONTINUITY 
+#EXTINF:10.0, 
+https://github.com/arjunthomas/kodi/raw/master/technical%20difficulty.mp4
