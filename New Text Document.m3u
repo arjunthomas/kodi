@@ -5,17 +5,17 @@ https://raw.githubusercontent.com/arjunthomas/kodi/master/RENDER%20THIS.mp4
 #EXTINF:0, group-title="Malayalam Basics" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/asianet.png",Asianet
 http://103.252.220.36:8080/asIANetonline/index.m3u8
 #EXTINF:0, group-title="Malayalam Basics" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/asianet%20movies.jpg",Asianet Movies
-http://103.252.220.36:8080/MoviesasIATV/index.m3u8
+http://103.252.220.36:8080/MoooviesasIATV/index.m3u8
 #EXTINF:0, group-title="Malayalam Basics" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/asianet%20plus.png",Asianet Plus
-http://103.252.220.36:8080/asianetPLESLive/index.m3u8
+http://103.252.220.36:8080/asianeeetPLESLive/index.m3u8
 #EXTINF:0, group-title="Malayalam Basics" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/surya.png",Surya HD
-http://103.252.220.36:8080/SUryahdLIVE/index.m3u8
+http://103.252.220.36:8080/SUryaaahdLIVE/index.m3u8
 #EXTINF:0, group-title="Malayalam Basics" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/surya.png",Surya Movies
-http://103.252.220.36:8080/SURYAmOOVIESMHDTV/index.m3u8
+http://103.252.220.36:8080/SURYAmOOVIEeeSMHDTV/index.m3u8
 #EXTINF:0, group-title="Malayalam Basics" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/surya%20music.jpg",Surya Music
-http://103.252.220.36:8080/SuryaMUsIIcMHDTV/index.m3u8
+http://103.252.220.36:8080/SuryaMUuusIIcMHDTV/index.m3u8
 #EXTINF:0, group-title="Malayalam Basics" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/surya.png",Surya Comedy
-http://103.252.220.36:8080/SURYACOmEEdYMHDTV/index.m3u8
+http://103.252.220.36:8080/SURYACOmEEdYyMHDTV/index.m3u8
 #EXTINF:0, group-title="Malayalam Basics" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/mazhavil%20manorama.jpg",Mazhavil Manorama
 http://103.252.220.36:8080/mazAHAVilTV/index.m3u8
 #EXTINF:0, group-title="Malayalam Basics" tvg-logo="https://github.com/arjunthomas/kodi/raw/logos/amrita.jpg",Amrita TV
