@@ -1,9 +1,5 @@
 #EXTM3U 
-#EXT-X-VERSION:3 
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-TARGETDURATION:0
-#EXTINF:6.000, 
-https://github.com/arjunthomas/kodi/raw/master/technical%20difficulty.mp4
-#EXTINF:6.000,
-https://github.com/arjunthomas/kodi/raw/master/RENDER%20THIS.mp4
-
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://tamilrockers.gr/uploads/monthly_04_2018/post-317411-0-04849400-1523800367.jpg" tvg-name="Bhaagamathie"  group-title="Malayalam Movies,movie
+https://raw.githubusercontent.com/arjunthomas/kodi/master/Movies.m3u
+#EXTINF:0, tvg-id="New EPG" tvg-logo="http://tamilrockers.gr/uploads/monthly_04_2018/post-317411-0-04849400-1523800367.jpg" tvg-name="Bhaagamathie"  group-title="Malayalam Movies,channel
+https://raw.githubusercontent.com/arjunthomas/kodi/master/New%20Text%20Document.m3u
